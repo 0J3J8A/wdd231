@@ -1,0 +1,174 @@
+:root {
+    --gray-800: #242424;
+    --gray-500: #5a5a5a;
+    --gray-50: #f5f5f5;
+    --white: #ffffff;
+}
+
+
+/* HEADER STYLES */
+header {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    gap: 8px;
+}
+
+header span {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+header button.hamburger {
+    display: none;
+}
+
+/* NAV STYLES */
+nav#MAIN_MENU {
+    background-color: var(--gray-800);
+    padding: 1rem 0;
+}
+
+nav#MAIN_MENU ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0 1rem;
+    margin: 0;
+}
+
+nav#MAIN_MENU ul li {
+    position: relative;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease;
+    border-radius: 4px;
+}
+
+nav#MAIN_MENU ul li a {
+    color: var(--white);
+    text-decoration: none;
+    display: block;
+    width: 100%;
+}
+
+nav#MAIN_MENU ul li:hover {
+    background-color: var(--gray-500);
+    cursor: pointer;
+}
+
+/* MAIN STYLES */
+main {
+    padding: 1rem;
+}
+
+main h1 {
+    font-size: 2rem;
+    text-align: left;
+    margin-bottom: 1rem;
+}
+
+#principal_information {
+    display: grid;
+    grid-template-columns: 75% 25%;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+#about_me h2 {
+    background-color: var(--gray-800);
+    color: var(--white);
+    text-align: center;
+    padding: 0.5rem;
+    margin-bottom: 0;
+    margin-left: -1rem;
+}
+
+#about_me p {
+    background-color: var(--gray-50);
+    padding: 1rem;
+    margin-top: 0;
+    height: 80%;
+    margin-left: -1rem;
+}
+
+#student_photo h2 {
+    background-color: var(--gray-800);
+    color: var(--white);
+    text-align: center;
+    padding: 0.5rem;
+    margin-bottom: 0;
+}
+
+#student_photo img {
+    background-color: var(--gray-50);
+    height: auto;
+    padding: 1rem;
+    display: block;
+    margin-top: 0;
+}
+
+#courses {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+}
+
+#courses h2 {
+    grid-column: 1/4;
+    background-color: var(--gray-800);
+    color: var(--white);
+    text-align: center;
+    padding: 0.5rem;
+    margin-bottom: 0;
+    margin-left: -1rem;
+    margin-right: -1rem;
+}
+
+#courses p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: var(--gray-500);
+    color: var(--white);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#courses p.left {
+    grid-column: 1;
+}
+
+#courses p.center {
+    grid-column: 2;
+    text-align: center;
+}
+
+#courses p.rigth {
+    grid-column: 3;
+    text-align: right;
+}
+
+main>p:last-of-type {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+/* FOOTER STYLES */
+#social_icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem 0;
+}
+
+#info {
+    background-color: var(--gray-50);
+    padding: 1rem;
+    text-align: center;
+}
+
+#info p {
+    margin: 0.5rem 0;
+}
