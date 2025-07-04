@@ -1,26 +1,78 @@
 <!DOCTYPE html>
 <html lang="en-US">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Site Name</title>
     <meta name="author" content="Juan Jose Aguirre Marin">
     <meta name="description" content="">
     <link rel="stylesheet" href="">
-    <link rel="stylesheet" href="styles/normalize.css">
-    <script></script>
+    <script src="scripts/index.js" defer></script>
+
 </head>
+
 <body>
     <header>
-        <h1>Hello</h1>
-
+        <img src="images/app-indicator.svg" alt="icon_image" width="48px" height="48px">
+        <span>Juan Jose Aguirre Marin</span>
+        <button class="hamburger">☰</button>
     </header>
+    <nav id="MAIN_MENU">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="">Chamber Project</a></li>
+            <li><a href="">Final Project</a></li>
+        </ul>
+    </nav>
     <main>
-
+        <h1>Home</h1>
+        <div id="principal_information">
+            <section id="about_me">
+                <h2>About Me</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis nam, nostrum consequatur, cum nihil
+                    eos
+                    obcaecati maxime corrupti accusantium ipsa dolore quisquam tempore temporibus sed impedit corporis
+                    ullam! Esse, commodi voluptates. Maiores voluptate provident illum eum, commodi at corporis laborum
+                    sint
+                    quibusdam, sit neque quia obcaecati tenetur doloribus nisi nulla? Illo incidunt beatae, accusamus
+                    eaque
+                    ducimus impedit debitis praesentium placeat, ea sunt cumque et eos omnis nisi aut eligendi tempore
+                    eum
+                    suscipit. Voluptatibus repudiandae obcaecati eos in totam nam tenetur voluptas dignissimos harum
+                    consequatur labore, magni quasi, debitis doloremque rerum maxime sunt iure consequuntur excepturi
+                    molestias expedita? Accusantium, nisi! Ab!
+                </p>
+            </section>
+            <section id="student_photo">
+                <h2>Student Photo</h2>
+                <img src="images/profile.jpg" alt="profile_picture">
+            </section>
+        </div>
+        <section id="courses">
+            <h2>Web Certificate Courses</h2>
+            <p class="left">All</p>
+            <p class="center">CSE</p>
+            <p class="rigth">WDD</p>
+            <p class="left">WDD 130</p>
+            <p class="center">WDD 131</p>
+            <p class="rigth">WDD 231</p>
+        </section>
+        <p>The total credits for course listed above is 6</p>
     </main>
-    <footer>
 
+    <footer>
+        <div id="social_icons">
+            <a href=""> <img src="images/linkedin.svg" alt="linkedin_icon" width="48px" height="48px"></a>
+            <a href=""> <img src="images/github.svg" alt="github_icon" width="48px" height="48px"></a>
+            <a href=""> <img src="images/facebook.svg" alt="facebook_icon" width="48px" height="48px"></a>
+        </div>
+        <div id="info">
+            <p>©<span id="currentyear"></span>- Juan Jose Aguirre Marin - Colombia - Bogotá</p>
+            <p class="p_2">Last Modification: <span id="lastModified"></span></p>
+        </div>
     </footer>
-    
+
 </body>
+
 </html>
