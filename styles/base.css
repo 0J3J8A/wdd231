@@ -136,6 +136,12 @@ main h1 {
     padding: 5px;
 }
 
+#ALL:hover,
+#CSE:hover,
+#WDD:hover {
+    cursor: pointer;
+}
+
 #courses p.left {
     grid-column: 1;
 }
@@ -153,6 +159,15 @@ main h1 {
 main>p:last-of-type {
     text-align: center;
     margin-top: 1rem;
+}
+
+/* COMPLETED COURSES */
+#courses p.completed {
+    background-color: var(--gray-50);
+    font-weight: bold;
+    border-left: 3px solid var(--gray-800);
+    border-right: 3px solid var(--gray-800);
+    color: var(--gray-800);
 }
 
 /* FOOTER STYLES */

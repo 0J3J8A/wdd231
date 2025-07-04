@@ -1,0 +1,93 @@
+/* ===== MEDIA QUERY PARA MOBILE (<750px) */
+@media screen and (max-width: 750px) {
+
+  header {
+    display: flex;
+    padding: 1rem;
+    background: white;
+    position: relative;
+  }
+
+  header img {
+    width: 48px;
+    height: 48px;
+  }
+
+  header span {
+    font-size: 1.5rem;
+  }
+
+  header button.hamburger {
+    display: block;
+    position: absolute;
+    right: 1rem;
+    background: none;
+    border: none;
+    font-size: 2rem;
+  }
+
+  nav#MAIN_MENU {
+    display: none;
+  }
+
+  nav#MAIN_MENU.menu-open {
+    display: block;
+    background: var(--gray-800);
+    margin-bottom: -1rem;
+  }
+
+  nav#MAIN_MENU ul {
+    flex-direction: column;
+    padding: 0;
+  }
+
+  nav#MAIN_MENU ul li {
+    margin-bottom: -1rem;
+    border-bottom: 1px solid var(--gray-500);
+  }
+
+   body #principal_information {
+    display: block;
+  }
+
+  #about_me h2 {
+    background: var(--gray-800);
+    color: white;
+    padding: 1rem;
+    margin: 0 -1rem;
+  }
+
+  #about_me p {
+    background: var(--gray-50);
+    padding: 1rem;
+    margin: 0 -1rem 1rem -1rem;
+  }
+ 
+  #student_photo h2 {
+    background: var(--gray-800);
+    color: white;
+    padding: 1rem;
+    margin: 0 -1rem;
+  }
+
+  #student_photo img {
+    width: 100%;
+    display: block;
+    margin: 0 -1rem;
+    padding: 1rem;
+    background: var(--gray-50);
+  }
+
+  #courses {
+    display: block;
+    margin-top: 2rem;
+  }
+
+  #courses h2 {
+    background: var(--gray-800);
+    color: white;
+    padding: 1rem;
+    margin: 0 -1rem;
+    text-align: center;
+  }
+}
