@@ -114,9 +114,10 @@
 }
 
 /* SMALLER */
-@media (max-width: 480px) {
+@media (max-width: 450px) {
     header span {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
+        margin-left: -1.5rem;
     }
 
     #home_information div {
