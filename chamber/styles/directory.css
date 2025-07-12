@@ -1,0 +1,163 @@
+:root {
+    --gray-800: #242424;
+    --gray-500: #5a5a5a;
+    --gray-50: #f5f5f5;
+    --white: #ffffff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--gray-50);
+    color: var(--gray-800);
+}
+
+/* Header Styles */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: var(--gray-500);
+    width: 100%;
+    box-sizing: border-box;
+}
+header span {
+    margin-right: 30rem;
+}
+
+header img {
+    margin-right: 1rem;
+}
+
+header span {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: var(--white);
+    display: flex;
+    align-items: center;
+}
+
+.hamburger {
+    display: none; /* Hidden for desktop */
+}
+
+nav#MAIN_MENU {
+    display: flex;
+    align-items: center;
+}
+
+nav#MAIN_MENU ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+nav#MAIN_MENU li {
+    margin-left: 1.5rem;
+}
+
+nav#MAIN_MENU a {
+    text-decoration: none;
+    color: var(--white);
+    font-weight: 500;
+}
+
+nav#MAIN_MENU a:hover {
+    text-decoration: underline;
+}
+
+nav#MAIN_MENU img {
+    margin-left: 1.5rem;
+}
+
+/* Main Content Styles */
+main {
+    padding: 2rem;
+}
+
+#hero_image {
+    width: 80%;
+    margin: 0 auto 2rem auto;
+    display: block;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+/* Home Information Section */
+#home_information {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    width: 100%; 
+    box-sizing: border-box; 
+}
+
+#events {
+    grid-column: span 2; 
+}
+
+#current_weather, #weather_forecast {
+    grid-column: span 1;
+}
+
+#home_information div {
+    background-color: var(--gray-500);
+    padding: 1rem;
+    min-height: 200px;
+}
+
+#home_information h2 {
+    background-color: var(--gray-800);
+    color: var(--gray-50);
+    margin: -1rem -1rem 1rem -1rem;
+    padding: 0.5rem 1rem;
+}
+
+/* Members Information Section */
+#members_information {
+    /* Will be populated with JS */
+    margin-bottom: 2rem;
+}
+
+/* Footer Styles */
+footer {
+    background-color: var(--gray-500);
+    color: var(--white);
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#chamber_info h2 {
+    font-weight: bold;
+    text-align: left;
+}
+
+#chamber_info p {
+    text-align: left;
+    margin: 0.5rem 0;
+    font-size: small;
+}
+
+#social_icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+#info {
+    text-align: left;
+}
+
+#info p {
+    margin: 0.5rem 0;
+}
