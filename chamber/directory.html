@@ -6,22 +6,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Springfield Chamber of Commerce</title>
     <meta name="author" content="Juan Jose Aguirre Marin">
-    <meta name="description" content="">
+    <meta name="description"
+        content="Discover Springfield's local businesses, events, and weather updates with our Chamber of Commerce directory and community hub.">
 
     <!--ADDING A FAVICON-->
     <link rel="icon" href="images/favicon.ico">
 
     <!--ADDING Facebook Social media meta-->
     <meta property="og:title" content="WDD231 | Juan Jose Aguirre">
-    <meta property="og:description" content="">
+    <meta property="og:description"
+        content="Discover Springfield's local businesses, events, and weather updates with our Chamber of Commerce directory and community hub.">
     <meta property="og:url" content="https://0j3j8a.github.io/wdd231/chamber/directory.html">
     <meta property="og:image" content="https://0j3j8a.github.io/wdd231/images/favicon.ico">
 
     <!--LINKING CSS-->
     <link rel="stylesheet" href="styles/directory.css">
+    <link rel="stylesheet" href="styles/directory_mobiles.css">
 
     <!--LINKING JS-->
     <script src="scripts/directory.js" defer></script>
+
+    <!--LINKING THE FONT-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@300;500;700&display=swap"
+        rel="stylesheet">
 
 </head>
 
@@ -29,16 +39,16 @@
     <header>
         <img src="images/app-indicator.svg" alt="image" width="48" height="48">
         <span>Springfield Chamber of Commerce</span>
-        <button class="hamburger">☰</button>
         <nav id="MAIN_MENU">
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="">Directory</a></li>
                 <li><a href="">Join</a></li>
                 <li><a href="">Discover</a></li>
-                <img src="images/circle-half.svg" alt="image_!" width="48" height="48">
             </ul>
         </nav>
+        <img src="images/circle-half.svg" alt="image_!" width="48" height="48">
+        <button class="hamburger">☰</button>
     </header>
     <main>
         <img id="hero_image" src="images/hero_image.jpg" alt="chamber_image">
@@ -50,13 +60,26 @@
             </div>
             <div id="current_weather">
                 <h2>Current Weather</h2>
-                <img src="images/cloud-sun.svg" height="48" width="48" alt="weather">
+                <img id="weather-icon" src="images/cloud-sun.svg" alt="weather icon" width="48" height="48">
+                <p id="weather-temp"></p>
+                <p id="weather-desc"></p>
+                <!--USE JS TO ADDING THE WEATHER-->
             </div>
+
             <div id="weather_forecast">
                 <h2>Weather Forecast</h2>
+                <div id="forecast"></div>
+                <!--USE JS TO ADDING THE WEATHER-->
             </div>
+
         </section>
-        <section id="members_information">
+        <section id="members_info">
+            <div class="view-toggle">
+                <button id="grid-view">Grid View</button>
+                <button id="list-view">List View</button>
+            </div>
+            <div id="members_container" class="grid"></div>
+            <script src="scripts/members.js" type="module"></script>
             <!--USE JS TO ADDING THE CARDS-->
         </section>
     </main>

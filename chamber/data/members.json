@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Clearwater Analytics",
+        "address": "777 W Main St, Boise, ID 83702",
+        "phone": "(208) 433-4400",
+        "url": "https://www.clearwateranalytics.com",
+        "image": "https://logo.clearbit.com/clearwateranalytics.com?size=150&format=png",
+        "membership": 3
+    },
+    {
+        "name": "Scentsy",
+        "address": "2701 E Pine Ave, Meridian, ID 83642",
+        "phone": "(208) 424-1500",
+        "url": "https://www.scentsy.com",
+        "image": "https://logo.clearbit.com/scentsy.com?size=150&format=png",
+        "membership": 3
+    },
+    {
+        "name": "Bodybuilding.com",
+        "address": "1501 W Front St, Boise, ID 83702",
+        "phone": "(208) 377-9000",
+        "url": "https://www.bodybuilding.com",
+        "image": "https://logo.clearbit.com/bodybuilding.com?size=150&format=png",
+        "membership": 3
+    },
+    {
+        "name": "TSheets (by QuickBooks)",
+        "address": "1555 W Riverstone Dr, Eagle, ID 83616",
+        "phone": "(208) 463-7000",
+        "url": "https://www.tsheets.com",
+        "image": "https://logo.clearbit.com/tsheets.com?size=150&format=png",
+        "membership": 2
+    },
+    {
+        "name": "Kount (an Equifax Company)",
+        "address": "815 W Bannock St, Boise, ID 83702",
+        "phone": "(208) 258-4400",
+        "url": "https://www.kount.com",
+        "image": "https://logo.clearbit.com/kount.com?size=150&format=png",
+        "membership": 2
+    },
+    {
+        "name": "Idaho Central Credit Union",
+        "address": "2675 W Pullman Rd, Moscow, ID 83843",
+        "phone": "(208) 882-2100",
+        "url": "https://www.iccu.com",
+        "image": "https://logo.clearbit.com/iccu.com?size=150&format=png",
+        "membership": 2
+    },
+    {
+        "name": "Micron Technology",
+        "address": "8000 S Federal Way, Boise, ID 83716",
+        "phone": "(208) 368-4000",
+        "url": "https://www.micron.com",
+        "image": "https://logo.clearbit.com/micron.com?size=150&format=png",
+        "membership": 1
+    },
+    {
+        "name": "Cradlepoint (part of Ericsson)",
+        "address": "1111 W Jefferson St, Boise, ID 83702",
+        "phone": "(208) 424-1900",
+        "url": "https://www.cradlepoint.com",
+        "image": "https://logo.clearbit.com/cradlepoint.com?size=150&format=png",
+        "membership": 1
+    },
+    {
+        "name": "PetIQ",
+        "address": "230 E Riverside Dr, Eagle, ID 83616",
+        "phone": "(208) 513-7100",
+        "url": "https://www.petiq.com",
+        "image": "https://logo.clearbit.com/petiq.com?size=150&format=png",
+        "membership": 1
+    }
+]
