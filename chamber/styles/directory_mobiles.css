@@ -18,7 +18,7 @@
 
     header span {
         margin-right: auto;
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
 
     header img {
@@ -116,7 +116,7 @@
 /* SMALLER */
 @media (max-width: 480px) {
     header span {
-        font-size: 1.2rem;
+        font-size: 0.9rem;
     }
 
     #home_information div {
