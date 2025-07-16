@@ -4,16 +4,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HOME | Springfield Chamber of Commerce</title>
-
-
-    <!--LINKING CSS-->
-    <link rel="stylesheet" href="styles/index.css">
-    <link rel="stylesheet" href="">
-
+    <title>Home | Springfield Chamber of Commerce</title>
+    <meta name="author" content="Juan Jose Aguirre Marin">
+    <meta name="description"
+        content="Home Springfield's local businesses, events, and weather updates with our Chamber of Commerce directory and community hub.">
 
     <!--ADDING A FAVICON-->
     <link rel="icon" href="images/favicon.ico">
+
+    <!--ADDING Facebook Social media meta-->
+    <meta property="og:title" content="WDD231 | Juan Jose Aguirre">
+    <meta property="og:description"
+        content="Home Springfield's local businesses, events, and weather updates with our Chamber of Commerce directory and community hub.">
+    <meta property="og:url" content="https://0j3j8a.github.io/wdd231/chamber/directory.html">
+    <meta property="og:image" content="https://0j3j8a.github.io/wdd231/images/favicon.ico">
+
+    <!--LINKING CSS-->
+    <link rel="stylesheet" href="styles/index.css">
+    <link rel="stylesheet" href="styles/index_mobiles.css">
+
+    <!--LINKING JS-->
+    <script src="scripts/index.js" defer></script>
 
     <!--LINKING THE FONT-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,7 +38,7 @@
 <body>
     <header>
         <img src="images/app-indicator.svg" alt="image_app_indicator" width="48" height="48">
-        <span>Directoty | Springfield Chamber of Commerce</span>
+        <span>Home | Springfield Chamber of Commerce</span>
         <nav id="MAIN_MENU">
             <ul>
                 <li><a href="#">Home</a></li>
@@ -39,14 +50,40 @@
         <img id="c" src="images/circle-half.svg" alt="image_circle_half" width="48" height="48">
         <button class="hamburger">☰</button>
     </header>
-    
     <main>
 
+        <img id="hero_image" src="images/hero_image.jpg" alt="image_chamber_hero">
+        <div class="call_action">
+            <a id="call_action_join" href="">Join with Us</a>
+        </div>
 
+        <h1>Home</h1>
+        <section id="home_information">
+            <div id="events">
+                <h2>Events</h2>
+            </div>
+            <div id="current_weather">
+                <h2>Current Weather</h2>
+                <img id="weather-icon" src="images/cloud-sun.svg" alt="weather icon" width="48" height="48">
+                <p id="weather-temp"></p>
+                <p id="weather-desc"></p>
+                <!--USE JS TO ADDING THE WEATHER-->
+            </div>
+
+            <div id="weather_forecast">
+                <h2>Weather Forecast</h2>
+                <div id="forecast"></div>
+                <!--USE JS TO ADDING THE WEATHER-->
+            </div>
+
+        </section>
+        <section id="members_info">
+            <h2>OUR MEMBERS</h2>
+            <div id="members_container" class="grid"></div>
+            <script src="scripts/members.js" type="module"></script>
+            <!--USE JS TO ADDING THE CARDS-->
+        </section>
     </main>
-
-
-
     <footer>
         <div id="chamber_info">
             <h2>Springfield Chamber of Commerce</h2>
@@ -71,7 +108,6 @@
             <p class="p_2">Last Modification: <span id="lastModified"></span></p>
         </div>
     </footer>
-
 </body>
 
 </html>
