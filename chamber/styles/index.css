@@ -83,18 +83,25 @@ main {
     padding: 2rem;
 }
 
-#hero_image {
+/* Hero Image Container */
+#hero_container {
+    position: relative; /*TO PUT THE CALL ACTION in the image*/
     width: 80%;
     margin: 0 auto 2rem auto;
+}
+
+#hero_image {
+    width: 100%;
     display: block;
     max-height: 400px;
     object-fit: cover;
 }
 
-/*Call Action Buttom*/
+/*Call Action Button*/
 .call_action {
-    display: flex;
-    justify-content: flex-end; 
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
 }
 
 #call_action_join {
@@ -106,6 +113,7 @@ main {
     background-color: var(--gray-500);
     cursor: pointer;
     box-shadow: 0 2px 5px rgb(0, 0, 0);
+    transition: all 0.3s ease;
 }
 
 #call_action_join:hover {
