@@ -114,10 +114,14 @@
 }
 
 /* SMALLER */
-@media (max-width: 450px) {
+@media (max-width: 400px) {
     header span {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
         margin-left: -1.5rem;
+    }
+
+    #c{
+        margin-right: -7px;
     }
 
     #home_information div {
