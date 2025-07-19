@@ -17,14 +17,15 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 });
 
-// JSON DATA
+// USING JSON DATA
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         const response = await fetch('data/members.json');
         const members = await response.json();
 
-        const premiumMembers = members.filter(m => m.membership >= 2);
-        const shuffled = [...premiumMembers].sort(() => Math.random() - 0.5);
+        const premiumMembers = members.filter(m => m.membership >= 2); //ONLY USE SLVER OR GOLDEN MEMBERS
+        const shuffled = [...premiumMembers].sort(() => Math.random() - 0.5); //DISPLAY RANDOM CARD
+        
         const randomSpotlights = shuffled.slice(0, 3);
         
         displayMembers(randomSpotlights, 'grid');
