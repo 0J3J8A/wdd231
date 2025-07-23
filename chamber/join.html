@@ -4,27 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home | Springfield Chamber of Commerce</title>
-    <meta name="author" content="Juan Jose Aguirre Marin">
-    <meta name="description"
-        content="Home Springfield's local businesses, events, and weather updates with our Chamber of Commerce directory and community hub.">
+    <title>Join | Springfield Chamber of Commerce</title>
 
     <!--ADDING A FAVICON-->
     <link rel="icon" href="images/favicon.ico">
 
     <!--ADDING Facebook Social media meta-->
     <meta property="og:title" content="WDD231 | Juan Jose Aguirre">
-    <meta property="og:description"
-        content="Home Springfield's local businesses, events, and weather updates with our Chamber of Commerce directory and community hub.">
+    <meta property="og:description" content="Join Springfield's a from to join with us">
     <meta property="og:url" content="https://0j3j8a.github.io/wdd231/chamber/directory.html">
     <meta property="og:image" content="https://0j3j8a.github.io/wdd231/images/favicon.ico">
 
     <!--LINKING CSS-->
-    <link rel="stylesheet" href="styles/index.css">
-    <link rel="stylesheet" href="styles/index_mobiles.css">
+    <link rel="stylesheet" href="styles/join.css">
+    <link rel="stylesheet" href="styles/join_mobiles.css">
 
     <!--LINKING JS-->
-    <script src="scripts/index.js" defer></script>
+    <script src="scripts/join.js" defer></script>
 
     <!--LINKING THE FONT-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -32,18 +28,17 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@300;500;700&display=swap"
         rel="stylesheet">
-
 </head>
 
 <body>
     <header>
         <img src="images/app-indicator.svg" alt="image_app_indicator" width="48" height="48">
-        <span>Home | Springfield Chamber of Commerce</span>
+        <span>Join | Springfield Chamber of Commerce</span>
         <nav id="MAIN_MENU">
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="https://0j3j8a.github.io/wdd231/chamber/index.html">Home</a></li>
                 <li><a href="https://0j3j8a.github.io/wdd231/chamber/directory.html">Directory</a></li>
-                <li><a href="https://0j3j8a.github.io/wdd231/chamber/join.html">Join</a></li>
+                <li><a href="#">Join</a></li>
                 <li><a href="">Discover</a></li>
             </ul>
         </nav>
@@ -51,40 +46,9 @@
         <button class="hamburger">☰</button>
     </header>
     <main>
-
         <div id="hero_container">
-            <img id="hero_image" src="images/hero_image.jpg" alt="image_chamber_hero">
-            <div class="call_action">
-                <a id="call_action_join" href="https://0j3j8a.github.io/wdd231/chamber/join.html">Join with Us</a>
-            </div>
+            <img id="hero_image" src="images/hero_image_join.jpg" alt="image_chamber_hero">
         </div>
-
-        <h1>Home</h1>
-        <section id="home_information">
-            <div id="events">
-                <h2>Events</h2>
-            </div>
-            <div id="current_weather">
-                <h2>Current Weather</h2>
-                <img id="weather-icon" src="images/cloud-sun.svg" alt="weather icon" width="48" height="48">
-                <p id="weather-temp"></p>
-                <p id="weather-desc"></p>
-                <!--USE JS TO ADDING THE CURRENT WEATHER-->
-            </div>
-
-            <div id="weather_forecast">
-                <h2>Weather Forecast</h2>
-                <div id="forecast"></div>
-                <!--USE JS TO ADDING THE WEATHER FORECAST-->
-            </div>
-
-        </section>
-        <section id="members_info">
-            <h2>OUR MEMBERS</h2>
-            <div id="members_container" class="grid"></div>
-            <script src="scripts/members.js" type="module"></script>
-            <!--USE JS TO ADDING THE CARDS OF MEMBERS-->
-        </section>
     </main>
     <footer>
         <div id="chamber_info">
@@ -110,6 +74,7 @@
             <p class="p_2">Last Modification: <span id="lastModified"></span></p>
         </div>
     </footer>
+
 </body>
 
 </html>
