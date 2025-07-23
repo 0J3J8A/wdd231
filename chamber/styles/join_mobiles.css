@@ -75,24 +75,17 @@
         grid-template-columns: 1fr;
     }
 
-    #events,
-    #current_weather,
-    #weather_forecast {
-        grid-column: span 1;
+    select{
+    width: 100%;
     }
 
-    /* WEATHER DISPLAY */
-    #forecast {
-        flex-direction: column;
+    /*form and cards*/
+    .form_membership_c {
+        display: block;
     }
 
-    .forecast-day {
-        margin-bottom: 1rem;
-    }
-
-    /* MEMBERS SECTION */
-    #members_container.grid {
-        grid-template-columns: 1fr;
+    form {
+        margin: 2rem auto;
     }
 
     /* FOOTER */

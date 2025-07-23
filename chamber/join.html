@@ -49,6 +49,145 @@
         <div id="hero_container">
             <img id="hero_image" src="images/hero_image_join.jpg" alt="image_chamber_hero">
         </div>
+        <div class="form_membership_c">
+            <form id="joinForm" method="get" action="thankyou.html">
+                <h1>Join the Chamber</h1>
+
+                <label for="firstName">First Name*:
+                    <input type="text" id="firstName" name="firstName" required title="Please enter your first name"
+                        autocomplete="given-name">
+                </label>
+
+                <label for="lastName">Last Name*:
+                    <input type="text" id="lastName" name="lastName" required title="Please enter your last name"
+                        autocomplete="family-name">
+                </label>
+
+                <label for="title">Business Title:
+                    <input type="text" id="title" name="title" title="Please enter your business title"
+                        autocomplete="organization-title" pattern="[a-zA-Z\- ]{7,}">
+                </label>
+
+                <label for="email">Email*:
+                    <input type="email" id="email" name="email" required title="Please enter a valid email address"
+                        autocomplete="email" placeholder="example@domain.com">
+                </label>
+
+                <label for="phone">Phone*:
+                    <input type="tel" id="phone" name="phone" required title="Please enter your phone number"
+                        autocomplete="tel">
+                </label>
+
+                <label for="business">Business/Organization Name*:
+                    <input type="text" id="business" name="business" required title="Please enter your business name"
+                        autocomplete="organization">
+                </label>
+
+                <label for="membership">Membership Level*:
+                    <select id="membership" name="membership" required title="Please select a membership level">
+                        <option value="">Select a level...</option>
+                        <option value="np">NP Membership (Non-Profit)</option>
+                        <option value="bronze">Bronze Membership</option>
+                        <option value="silver">Silver Membership</option>
+                        <option value="gold">Gold Membership</option>
+                    </select>
+                </label>
+
+                <label for="description">Business Description:
+                    <textarea id="description" name="description" title="Tell us about your business"></textarea>
+                </label>
+
+                <input type="hidden" id="timestamp" name="timestamp">
+
+                <button type="submit">Join Now</button>
+            </form>
+
+            <div class="membership-cards">
+                <div class="card" id="np-card">
+                    <h3>NP Membership</h3>
+                    <p>For non-profit organizations</p>
+                    <p>No fee</p>
+                    <button class="info-btn" data-modal="np-modal">Learn More</button>
+                </div>
+
+                <div class="card" id="bronze-card">
+                    <h3>Bronze Membership</h3>
+                    <p>Basic benefits</p>
+                    <p>$100/year</p>
+                    <button class="info-btn" data-modal="bronze-modal">Learn More</button>
+                </div>
+
+                <div class="card" id="silver-card">
+                    <h3>Silver Membership</h3>
+                    <p>Enhanced benefits</p>
+                    <p>$250/year</p>
+                    <button class="info-btn" data-modal="silver-modal">Learn More</button>
+                </div>
+
+                <div class="card" id="gold-card">
+                    <h3>Gold Membership</h3>
+                    <p>Premium benefits</p>
+                    <p>$500/year</p>
+                    <button class="info-btn" data-modal="gold-modal">Learn More</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal Windows -->
+        <div id="np-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h3>NP Membership Benefits</h3>
+                <ul>
+                    <li>Free listing in our directory</li>
+                    <li>Access to member resources</li>
+                    <li>Monthly newsletter</li>
+                    <li>Networking opportunities</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="bronze-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h3>Bronze Membership Benefits</h3>
+                <ul>
+                    <li>All NP benefits plus:</li>
+                    <li>Business listing with logo</li>
+                    <li>10% discount on events</li>
+                    <li>Quarterly training sessions</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="silver-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h3>Silver Membership Benefits</h3>
+                <ul>
+                    <li>All Bronze benefits plus:</li>
+                    <li>Featured listing in directory</li>
+                    <li>20% discount on events</li>
+                    <li>Monthly training sessions</li>
+                    <li>Advertising opportunities</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="gold-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h3>Gold Membership Benefits</h3>
+                <ul>
+                    <li>All Silver benefits plus:</li>
+                    <li>Premium featured listing</li>
+                    <li>30% discount on events</li>
+                    <li>Weekly training sessions</li>
+                    <li>Homepage spotlight</li>
+                    <li>VIP event access</li>
+                </ul>
+            </div>
+        </div>
     </main>
     <footer>
         <div id="chamber_info">
