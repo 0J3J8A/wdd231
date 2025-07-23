@@ -1,0 +1,20 @@
+Student: Juan Jose Aguirre Marin
+
+1. Project Subject: SWITCH vs PLAY STATION vs XBOX (MY PROJECT OF THE LAST TERM)
+
+2. Project Description
+ HOME PAGE general information and the links to the other pages (BASIC FORM of paper news)
+SWITCH / PLAY STATION / XBOX page, general information of the consoles and games 
+ADDING A 
+(USING JSON TO DISPLAY INFORMATION OF THE GAMES in a DIALOG)
+(EACH PAGE WOULD HAVE 8 DIFERENTS DIALOGS OF EACH GAME)
+(HOME PAGE WOULD HAVE A FORM TO CREATE A GAME CARD WITH THE INFORMATION OF THE USER AND ALSO WITH A PICTURE OF THE GAME THAT THE USER WOULD CHOSSE)
+FORM (FIRST AND LAST NAME / AGE / COUNTRY / CHOSSE CONSOLE / CHOSEE VIDEO GAME / CHOSSE CHARACTER OF THE VIDEO GAME (put 5 options) / TYPE A TEXT)
+DISPLAL A CARD LIKE LICENSED CARD WITH THE INFORMATION (picture of the character and BACKGROUND picture of the game related with the character)
+(ADD IN THE HOME PAGE WITH JSON LINKS TO AMAZON TO BUY THE GAMES)
+(USE TRANSITION AND EFFECTS TO DISPLAY AN ANIMATION RELATED WITH THE GAME IN THE BACKGROUND EACH TIME OF THE DIALOG IS DISPLAY)
+(ADD MORE GAMES TO EACH WEB PAGE)
+(ADD A FAVICON)
+
+3. Project Reason and Purpose
+I would like to upgrade my last final project (I think I can add all the thinks that I learned this term and create a great page)
