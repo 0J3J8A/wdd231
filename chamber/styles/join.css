@@ -5,6 +5,7 @@
     --white: #ffffff;
     --primary: #4CAF50;
     --error: #f44336;
+    --bronze: rgb(205, 127, 50);
 }
 
 body {
@@ -153,7 +154,7 @@ textarea:focus {
 }
 
 button[type="submit"] {
-    background-color: var(--primary);
+    background-color: var(--gray-500);
     color: var(--white);
     border: none;
     padding: 1rem 2rem;
@@ -204,6 +205,20 @@ button[type="submit"]:hover {
     animation-delay: 0.4s;
 }
 
+/*Color of the h3*/
+
+#Bronze{
+    color: var(--bronze);
+}
+
+#Silver{
+    color: silver;
+}
+
+#Gold{
+    color: gold
+}
+
 @keyframes fadeInUp {
     to {
         opacity: 1;
@@ -222,7 +237,7 @@ button[type="submit"]:hover {
 }
 
 .info-btn {
-    background-color: var(--primary);
+    background-color: var(--gray-500);
     color: var(--white);
     border: none;
     padding: 0.75rem 1.5rem;

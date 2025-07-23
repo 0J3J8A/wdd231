@@ -5,6 +5,7 @@
     --white: #ffffff;
     --primary: #4CAF50;
     --error: #f44336;
+    --bronze: rgb(205, 127, 50);
 }
 
 body {
@@ -240,7 +241,7 @@ main {
     border-left: 4px solid silver;
 }
 .member-item.member {
-    border-left: 4px solid var(--gray-500);
+    border-left: 4px solid var(--bronze);
 }
 
 .member-item h3 {
@@ -284,7 +285,7 @@ main {
 }
 
 .member-card.member {
-    border: 3px solid var(--gray-500); 
+    border: 3px solid var(--bronze); 
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
 }
 
