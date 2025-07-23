@@ -172,7 +172,6 @@ button[type="submit"]:hover {
 /* Membership Cards */
 .membership-cards {
     display: grid;
-    grid-template-columns: repeat(1fr);
     margin-top: 2rem;
     gap: 1rem;
 }
@@ -186,7 +185,7 @@ button[type="submit"]:hover {
     transition: transform 0.3s, box-shadow 0.3s;
     opacity: 0;
     transform: translateY(20px);
-    animation: fadeInUp 0.5s forwards;
+    animation: fadeInUp 2s forwards;
 }
 
 .card:nth-child(1) {
