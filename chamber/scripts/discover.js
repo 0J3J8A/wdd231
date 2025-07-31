@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
     displayVisitorMessage();
 });
 
+//FETCHING THE JSON FILE
 function loadAttractions() {
     fetch('data/discover.json')
         .then(response => response.json())
