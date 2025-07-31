@@ -83,22 +83,6 @@ main {
     padding: 2rem;
 }
 
-/* Hero Image Container */
-#hero_container {
-    position: relative; /*TO PUT THE CALL ACTION in the image*/
-    width: 80%;
-    margin: 0 auto 2rem auto;
-}
-
-#hero_image {
-    width: 100%;
-    display: block;
-    max-height: 400px;
-    object-fit: cover;
-}
-
-
-
 /* Footer Styles */
 footer {
     background-color: var(--gray-500);

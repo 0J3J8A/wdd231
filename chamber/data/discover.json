@@ -1,0 +1,52 @@
+{
+    "attractions": [
+        {
+            "name": "Springfield Botanical Gardens",
+            "address": "2400 S Scenic Ave, Springfield, IL 62707",
+            "description": "A beautiful 20-acre garden featuring themed gardens, walking trails, and seasonal flower displays.",
+            "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=300&h=200&auto=format&fit=crop"
+        },
+        {
+            "name": "Lincoln Presidential Library",
+            "address": "212 N 6th St, Springfield, IL 62701",
+            "description": "Explore exhibits about Abraham Lincoln's life and presidency in this world-class museum.",
+            "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Washington Park",
+            "address": "1501 S Grand Ave W, Springfield, IL 62704",
+            "description": "A 150-acre park featuring a lake, playgrounds, picnic areas, and the Thomas Rees Memorial Carillon.",
+            "image": "https://images.unsplash.com/photo-1571624436279-b272aff752b5?w=300&h=200&auto=format&fit=crop"
+        },
+        {
+            "name": "Dana-Thomas House",
+            "address": "301 E Lawrence Ave, Springfield, IL 62703",
+            "description": "Frank Lloyd Wright's 1902 masterpiece featuring over 100 pieces of original Wright furniture.",
+            "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=300&h=200&auto=format&fit=crop"
+        },
+        {
+            "name": "Illinois State Museum",
+            "address": "502 S Spring St, Springfield, IL 62706",
+            "description": "Exhibits on Illinois' natural and cultural history, including fossils, Native American artifacts, and art.",
+            "image": "https://images.unsplash.com/photo-1554907984-15263bfd63bd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Knight's Action Park",
+            "address": "1700 Knights Recreation Dr, Springfield, IL 62702",
+            "description": "Family entertainment center with water park, go-karts, mini-golf, batting cages, and arcade.",
+            "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=300&h=200&auto=format&fit=crop"
+        },
+        {
+            "name": "Henson Robinson Zoo",
+            "address": "1100 E Lake Shore Dr, Springfield, IL 62712",
+            "description": "Home to over 300 animals representing 90 species from around the world in naturalistic habitats.",
+            "image": "https://images.unsplash.com/photo-1524272332618-3a94122bb0c1?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Old State Capitol",
+            "address": "1 Old State Capitol Plaza, Springfield, IL 62701",
+            "description": "Historic site where Lincoln served as a legislator and delivered his famous 'House Divided' speech.",
+            "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=300&h=200&auto=format&fit=crop"
+        }
+    ]
+}
