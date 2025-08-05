@@ -1,4 +1,4 @@
-{
+{  
   "games": [
     {
       "title": "GOD OF WAR RAGNAROK",
@@ -7,13 +7,13 @@
       "rating": "M",
       "amazonLink": "https://www.amazon.com/-/es/God-War-Ragnarok-Launch-Playstation-5/dp/B0B6252GNX",
       "image": "images/GOW_R.jpg",
-      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-forest-stream-in-the-sunlight-529-large.mp4",
+      "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/625050668/stock-video-relaxing-rounded-neon-pink-colored-lines-background-animation-loop-good?token=",
       "characters": [
-        {"name": "Kratos", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Atreus", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Freya", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Thor", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Odin", "image": "https://cdn.pixabay.com/photo/..."}
+        {"name": "Kratos", "image": "https://cdn.pixabay.com/photo/2021/07/19/14/26/warrior-6477875_1280.jpg"},
+        {"name": "Atreus", "image": "https://cdn.pixabay.com/photo/2020/10/02/06/26/boy-5610641_1280.jpg"},
+        {"name": "Freya", "image": "https://cdn.pixabay.com/photo/2017/03/01/20/12/woman-2102420_1280.jpg"},
+        {"name": "Thor", "image": "https://cdn.pixabay.com/photo/2016/11/22/07/09/viking-1846958_1280.jpg"},
+        {"name": "Odin", "image": "https://cdn.pixabay.com/photo/2017/07/28/07/52/old-man-2549997_1280.jpg"}
       ]
     },
     {
@@ -23,13 +23,13 @@
       "rating": "M",
       "amazonLink": "https://www.amazon.com/Last-Us-Part-II-PlayStation-4/dp/B07DJRFSDF",
       "image": "images/TLOU_2.jpg",
-      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-aerial-view-of-city-traffic-at-night-3580-large.mp4",
+      "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/294715552/stock-video-sound-waves-in-the-dark?token=",
       "characters": [
-        {"name": "Ellie", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Abby", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Joel", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Dina", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Lev", "image": "https://cdn.pixabay.com/photo/..."}
+        {"name": "Ellie", "image": "https://cdn.pixabay.com/photo/2020/05/21/06/25/girl-5200630_1280.jpg"},
+        {"name": "Abby", "image": "https://cdn.pixabay.com/photo/2018/07/06/14/40/woman-3517846_1280.jpg"},
+        {"name": "Joel", "image": "https://cdn.pixabay.com/photo/2019/12/31/22/17/man-4729641_1280.jpg"},
+        {"name": "Dina", "image": "https://cdn.pixabay.com/photo/2017/08/07/12/03/woman-2609607_1280.jpg"},
+        {"name": "Lev", "image": "https://cdn.pixabay.com/photo/2019/04/11/17/36/child-4110163_1280.jpg"}
       ]
     },
     {
@@ -39,13 +39,13 @@
       "rating": "T",
       "amazonLink": "https://www.amazon.com/Uncharted-4-Thiefs-End-PlayStation-4/dp/B00KVR4HEC",
       "image": "images/UN_4.jpg",
-      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-explorer-on-a-rock-31745-large.mp4",
+      "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/819618798/stock-video-trendy-abstract-technology-background-glowing-red-blue-neon-light-beams?token=",
       "characters": [
-        {"name": "Nathan Drake", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Elena Fisher", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Victor Sullivan", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Sam Drake", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Nadine Ross", "image": "https://cdn.pixabay.com/photo/..."}
+        {"name": "Nathan Drake", "image": "https://cdn.pixabay.com/photo/2017/11/01/21/22/man-2905726_1280.jpg"},
+        {"name": "Elena Fisher", "image": "https://cdn.pixabay.com/photo/2016/10/18/21/22/woman-1751808_1280.jpg"},
+        {"name": "Victor Sullivan", "image": "https://cdn.pixabay.com/photo/2016/11/21/16/54/man-1845897_1280.jpg"},
+        {"name": "Sam Drake", "image": "https://cdn.pixabay.com/photo/2017/01/19/15/53/man-1990346_1280.jpg"},
+        {"name": "Nadine Ross", "image": "https://cdn.pixabay.com/photo/2016/03/27/21/34/woman-1284412_1280.jpg"}
       ]
     },
     {
@@ -55,13 +55,13 @@
       "rating": "M",
       "amazonLink": "https://www.amazon.com/Call-Duty-Modern-Warfare-III-PlayStation-5/dp/B0CD5Y8X9N",
       "image": "images/COD_MF3.jpg",
-      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-soldier-in-a-war-zone-3154-large.mp4",
+      "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/809335074/stock-video-futuristic-background-portal-exploding-neon-energy-beams-particles-flares-high?token=",
       "characters": [
-        {"name": "Captain Price", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Soap MacTavish", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Ghost", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Farah Karim", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Vladimir Makarov", "image": "https://cdn.pixabay.com/photo/..."}
+        {"name": "Captain Price", "image": "https://cdn.pixabay.com/photo/2021/06/24/08/47/soldier-6366225_1280.jpg"},
+        {"name": "Soap MacTavish", "image": "https://cdn.pixabay.com/photo/2016/06/29/09/48/soldier-1486801_1280.jpg"},
+        {"name": "Ghost", "image": "https://cdn.pixabay.com/photo/2020/05/13/08/45/warrior-5163641_1280.jpg"},
+        {"name": "Farah Karim", "image": "https://cdn.pixabay.com/photo/2018/02/01/10/01/woman-3126342_1280.jpg"},
+        {"name": "Vladimir Makarov", "image": "https://cdn.pixabay.com/photo/2017/05/05/22/00/man-2280719_1280.jpg"}
       ]
     },
     {
@@ -71,13 +71,13 @@
       "rating": "T",
       "amazonLink": "https://www.amazon.com/-/es/MARVELS-SPIDER-MAN-2-Standard-PlayStation-5/dp/B0C7WQRCPB",
       "image": "images/SP_2_P.jpg",
-      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-city-traffic-at-night-3580-large.mp4",
+      "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/625050712/stock-video-relaxing-rounded-neon-red-colored-lines-background-animation-loop-good?token=",
       "characters": [
-        {"name": "Peter Parker", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Miles Morales", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Mary Jane", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Venom", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Kraven", "image": "https://cdn.pixabay.com/photo/..."}
+        {"name": "Peter Parker", "image": "https://cdn.pixabay.com/photo/2017/08/03/14/45/man-2572158_1280.jpg"},
+        {"name": "Miles Morales", "image": "https://cdn.pixabay.com/photo/2021/08/05/13/08/man-6521527_1280.jpg"},
+        {"name": "Mary Jane", "image": "https://cdn.pixabay.com/photo/2015/09/22/12/20/woman-951224_1280.jpg"},
+        {"name": "Venom", "image": "https://cdn.pixabay.com/photo/2017/02/07/13/16/dark-2041051_1280.jpg"},
+        {"name": "Kraven", "image": "https://cdn.pixabay.com/photo/2019/02/03/14/08/man-3973289_1280.jpg"}
       ]
     },
     {
@@ -87,13 +87,13 @@
       "rating": "T",
       "amazonLink": "https://www.amazon.com/PlayStation-9720690-Horizon-Forbidden-West/dp/B09FBCRKC9",
       "image": "images/HORIZON_FW.jpg",
-      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-nature-forest-with-a-river-3164-large.mp4",
+      "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/489506722/stock-video-abstract-moving-neon-futuristic-digital-short-geometric-lines-glowing-4k-seamless-vj-loop-motion-background?token=",
       "characters": [
-        {"name": "Aloy", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Erend", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Varl", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Zo", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Sylens", "image": "https://cdn.pixabay.com/photo/..."}
+        {"name": "Aloy", "image": "https://cdn.pixabay.com/photo/2018/08/16/15/26/woman-3601233_1280.jpg"},
+        {"name": "Erend", "image": "https://cdn.pixabay.com/photo/2017/11/09/21/49/man-2939268_1280.jpg"},
+        {"name": "Varl", "image": "https://cdn.pixabay.com/photo/2017/02/01/15/39/man-2022478_1280.jpg"},
+        {"name": "Zo", "image": "https://cdn.pixabay.com/photo/2018/02/14/18/33/woman-3159396_1280.jpg"},
+        {"name": "Sylens", "image": "https://cdn.pixabay.com/photo/2019/01/31/07/17/man-3969999_1280.jpg"}
       ]
     },
     {
@@ -103,13 +103,13 @@
       "rating": "M",
       "amazonLink": "https://www.amazon.com/God-War-PlayStation-4/dp/B01GW8XOY2",
       "image": "images/GOW_18.jpg",
-      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-snowy-mountain-peak-under-a-cloudy-sky-3156-large.mp4",
+      "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/294715552/stock-video-sound-waves-in-the-dark?token=",
       "characters": [
-        {"name": "Kratos", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Atreus", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Freya", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Baldur", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Mimir", "image": "https://cdn.pixabay.com/photo/..."}
+        {"name": "Kratos", "image": "https://cdn.pixabay.com/photo/2021/07/19/14/26/warrior-6477875_1280.jpg"},
+        {"name": "Atreus", "image": "https://cdn.pixabay.com/photo/2020/10/02/06/26/boy-5610641_1280.jpg"},
+        {"name": "Freya", "image": "https://cdn.pixabay.com/photo/2017/03/01/20/12/woman-2102420_1280.jpg"},
+        {"name": "Baldur", "image": "https://cdn.pixabay.com/photo/2015/11/07/11/19/man-1039767_1280.jpg"},
+        {"name": "Mimir", "image": "https://cdn.pixabay.com/photo/2016/08/01/21/01/man-1562502_1280.jpg"}
       ]
     },
     {
@@ -119,14 +119,15 @@
       "rating": "M",
       "amazonLink": "https://www.amazon.com/-/es/Elden-Ring-PS5/dp/B097M66Y91",
       "image": "images/ER.jpg",
-      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-medieval-castle-on-a-cliff-3166-large.mp4",
+      "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/819618798/stock-video-trendy-abstract-technology-background-glowing-red-blue-neon-light-beams?token=",
       "characters": [
-        {"name": "Tarnished", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Melina", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Ranni", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Radahn", "image": "https://cdn.pixabay.com/photo/..."},
-        {"name": "Malenia", "image": "https://cdn.pixabay.com/photo/..."}
+        {"name": "Tarnished", "image": "https://cdn.pixabay.com/photo/2017/08/07/11/01/knight-2590971_1280.jpg"},
+        {"name": "Melina", "image": "https://cdn.pixabay.com/photo/2017/01/14/12/59/woman-1975978_1280.jpg"},
+        {"name": "Ranni", "image": "https://cdn.pixabay.com/photo/2016/11/29/10/07/woman-1867498_1280.jpg"},
+        {"name": "Radahn", "image": "https://cdn.pixabay.com/photo/2018/04/14/23/06/knight-3319523_1280.jpg"},
+        {"name": "Malenia", "image": "https://cdn.pixabay.com/photo/2018/03/14/10/37/woman-3225436_1280.jpg"}
       ]
     }
   ]
 }
+
