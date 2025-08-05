@@ -5,15 +5,15 @@
       "developer": "Santa Monica Studio",
       "year": 2022,
       "rating": "M",
-      "amazonLink": "https://www.amazon.com/God-War-Ragnarök-PlayStation-5/dp/B0B7DPSN2H",
+      "amazonLink": "https://www.amazon.com/-/es/God-War-Ragnarok-Launch-Playstation-5/dp/B0B6252GNX",
       "image": "images/GOW_R.jpg",
       "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-forest-stream-in-the-sunlight-529-large.mp4",
       "characters": [
-        {"name": "Kratos", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/43/ai-generated-7913635_640.jpg"},
-        {"name": "Atreus", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/43/ai-generated-7913636_640.jpg"},
-        {"name": "Freya", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/44/ai-generated-7913637_640.jpg"},
-        {"name": "Thor", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/44/ai-generated-7913638_640.jpg"},
-        {"name": "Odin", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/44/ai-generated-7913639_640.jpg"}
+        {"name": "Kratos", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Atreus", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Freya", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Thor", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Odin", "image": "https://cdn.pixabay.com/photo/..."}
       ]
     },
     {
@@ -21,15 +21,15 @@
       "developer": "Naughty Dog",
       "year": 2020,
       "rating": "M",
-      "amazonLink": "https://www.amazon.com/Last-Us-Part-II-PlayStation-4/dp/B07DJRFSZ5",
+      "amazonLink": "https://www.amazon.com/Last-Us-Part-II-PlayStation-4/dp/B07DJRFSDF",
       "image": "images/TLOU_2.jpg",
       "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-aerial-view-of-city-traffic-at-night-3580-large.mp4",
       "characters": [
-        {"name": "Ellie", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/45/ai-generated-7913640_640.jpg"},
-        {"name": "Abby", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/45/ai-generated-7913641_640.jpg"},
-        {"name": "Joel", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/45/ai-generated-7913642_640.jpg"},
-        {"name": "Dina", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/46/ai-generated-7913643_640.jpg"},
-        {"name": "Lev", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/46/ai-generated-7913644_640.jpg"}
+        {"name": "Ellie", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Abby", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Joel", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Dina", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Lev", "image": "https://cdn.pixabay.com/photo/..."}
       ]
     },
     {
@@ -41,11 +41,11 @@
       "image": "images/UN_4.jpg",
       "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-explorer-on-a-rock-31745-large.mp4",
       "characters": [
-        {"name": "Nathan Drake", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/47/ai-generated-7913645_640.jpg"},
-        {"name": "Elena Fisher", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/47/ai-generated-7913646_640.jpg"},
-        {"name": "Victor Sullivan", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/48/ai-generated-7913647_640.jpg"},
-        {"name": "Sam Drake", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/48/ai-generated-7913648_640.jpg"},
-        {"name": "Nadine Ross", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/49/ai-generated-7913649_640.jpg"}
+        {"name": "Nathan Drake", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Elena Fisher", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Victor Sullivan", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Sam Drake", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Nadine Ross", "image": "https://cdn.pixabay.com/photo/..."}
       ]
     },
     {
@@ -53,15 +53,15 @@
       "developer": "Infinity Ward",
       "year": 2023,
       "rating": "M",
-      "amazonLink": "https://www.amazon.com/Call-Duty-Modern-Warfare-III-PlayStation/dp/B0CD5Y8X9N",
+      "amazonLink": "https://www.amazon.com/Call-Duty-Modern-Warfare-III-PlayStation-5/dp/B0CD5Y8X9N",
       "image": "images/COD_MF3.jpg",
       "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-soldier-in-a-war-zone-3154-large.mp4",
       "characters": [
-        {"name": "Captain Price", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/49/ai-generated-7913650_640.jpg"},
-        {"name": "Soap MacTavish", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/50/ai-generated-7913651_640.jpg"},
-        {"name": "Ghost", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/50/ai-generated-7913652_640.jpg"},
-        {"name": "Farah Karim", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/51/ai-generated-7913653_640.jpg"},
-        {"name": "Vladimir Makarov", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/51/ai-generated-7913654_640.jpg"}
+        {"name": "Captain Price", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Soap MacTavish", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Ghost", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Farah Karim", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Vladimir Makarov", "image": "https://cdn.pixabay.com/photo/..."}
       ]
     },
     {
@@ -69,15 +69,15 @@
       "developer": "Insomniac Games",
       "year": 2023,
       "rating": "T",
-      "amazonLink": "https://www.amazon.com/Marvels-Spider-Man-PlayStation-5/dp/B0B7XKVX3G",
+      "amazonLink": "https://www.amazon.com/-/es/MARVELS-SPIDER-MAN-2-Standard-PlayStation-5/dp/B0C7WQRCPB",
       "image": "images/SP_2_P.jpg",
       "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-city-traffic-at-night-3580-large.mp4",
       "characters": [
-        {"name": "Peter Parker", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/52/ai-generated-7913655_640.jpg"},
-        {"name": "Miles Morales", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/52/ai-generated-7913656_640.jpg"},
-        {"name": "Mary Jane", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/53/ai-generated-7913657_640.jpg"},
-        {"name": "Venom", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/53/ai-generated-7913658_640.jpg"},
-        {"name": "Kraven", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/54/ai-generated-7913659_640.jpg"}
+        {"name": "Peter Parker", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Miles Morales", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Mary Jane", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Venom", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Kraven", "image": "https://cdn.pixabay.com/photo/..."}
       ]
     },
     {
@@ -85,15 +85,15 @@
       "developer": "Guerrilla Games",
       "year": 2022,
       "rating": "T",
-      "amazonLink": "https://www.amazon.com/Horizon-Forbidden-West-Launch-PlayStation-5/dp/B09FBM22S1",
+      "amazonLink": "https://www.amazon.com/PlayStation-9720690-Horizon-Forbidden-West/dp/B09FBCRKC9",
       "image": "images/HORIZON_FW.jpg",
       "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-nature-forest-with-a-river-3164-large.mp4",
       "characters": [
-        {"name": "Aloy", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/54/ai-generated-7913660_640.jpg"},
-        {"name": "Erend", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/55/ai-generated-7913661_640.jpg"},
-        {"name": "Varl", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/55/ai-generated-7913662_640.jpg"},
-        {"name": "Zo", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/56/ai-generated-7913663_640.jpg"},
-        {"name": "Sylens", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/56/ai-generated-7913664_640.jpg"}
+        {"name": "Aloy", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Erend", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Varl", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Zo", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Sylens", "image": "https://cdn.pixabay.com/photo/..."}
       ]
     },
     {
@@ -105,27 +105,27 @@
       "image": "images/GOW_18.jpg",
       "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-snowy-mountain-peak-under-a-cloudy-sky-3156-large.mp4",
       "characters": [
-        {"name": "Kratos", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/57/ai-generated-7913665_640.jpg"},
-        {"name": "Atreus", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/57/ai-generated-7913666_640.jpg"},
-        {"name": "Freya", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/58/ai-generated-7913667_640.jpg"},
-        {"name": "Baldur", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/58/ai-generated-7913668_640.jpg"},
-        {"name": "Mimir", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/59/ai-generated-7913669_640.jpg"}
+        {"name": "Kratos", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Atreus", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Freya", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Baldur", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Mimir", "image": "https://cdn.pixabay.com/photo/..."}
       ]
     },
     {
-      "title": "ELDER RING",
+      "title": "ELDEN RING",
       "developer": "FromSoftware",
       "year": 2022,
       "rating": "M",
-      "amazonLink": "https://www.amazon.com/Elden-Ring-PlayStation-5/dp/B09743F8P6",
+      "amazonLink": "https://www.amazon.com/-/es/Elden-Ring-PS5/dp/B097M66Y91",
       "image": "images/ER.jpg",
       "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-medieval-castle-on-a-cliff-3166-large.mp4",
       "characters": [
-        {"name": "Tarnished", "image": "https://cdn.pixabay.com/photo/2023/04/10/10/59/ai-generated-7913670_640.jpg"},
-        {"name": "Melina", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/00/ai-generated-7913671_640.jpg"},
-        {"name": "Ranni", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/00/ai-generated-7913672_640.jpg"},
-        {"name": "Radahn", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/01/ai-generated-7913673_640.jpg"},
-        {"name": "Malenia", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/01/ai-generated-7913674_640.jpg"}
+        {"name": "Tarnished", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Melina", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Ranni", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Radahn", "image": "https://cdn.pixabay.com/photo/..."},
+        {"name": "Malenia", "image": "https://cdn.pixabay.com/photo/..."}
       ]
     }
   ]

@@ -1,0 +1,132 @@
+{
+  "games": [
+    {
+      "title": "THE LEGEND OF ZELDA: TEARS OF THE KINGDOM",
+      "developer": "Nintendo EPD",
+      "year": 2023,
+      "rating": "E10+",
+      "amazonLink": "https://www.amazon.com/Legend-Zelda-Tears-Kingdom-Nintendo-Switch/dp/B0B3G5YQ7B",
+      "image": "images/TLZ-TK.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-fantasy-land-with-mountains-and-river-3168-large.mp4",
+      "characters": [
+        {"name": "Link", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/19/ai-generated-7913707_640.jpg"},
+        {"name": "Zelda", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/19/ai-generated-7913708_640.jpg"},
+        {"name": "Ganondorf", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/20/ai-generated-7913709_640.jpg"},
+        {"name": "Rauru", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/20/ai-generated-7913710_640.jpg"},
+        {"name": "Sonia", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/21/ai-generated-7913711_640.jpg"}
+      ]
+    },
+    {
+      "title": "SUPER MARIO ODYSSEY",
+      "developer": "Nintendo EPD",
+      "year": 2017,
+      "rating": "E",
+      "amazonLink": "https://www.amazon.com/Super-Mario-Odyssey-US-Version-Switch/dp/B01MY7GHKJ",
+      "image": "images/MARIO_OD.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-sunny-city-street-3155-large.mp4",
+      "characters": [
+        {"name": "Mario", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/21/ai-generated-7913712_640.jpg"},
+        {"name": "Cappy", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/22/ai-generated-7913713_640.jpg"},
+        {"name": "Pauline", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/22/ai-generated-7913714_640.jpg"},
+        {"name": "Bowser", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/23/ai-generated-7913715_640.jpg"},
+        {"name": "Peach", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/23/ai-generated-7913716_640.jpg"}
+      ]
+    },
+    {
+      "title": "MARIO KART 8 DELUXE",
+      "developer": "Nintendo EPD",
+      "year": 2017,
+      "rating": "E",
+      "amazonLink": "https://www.amazon.com/Nintendo-Mario-Kart-Deluxe-Multiplayer/dp/B07C4ZNYHP",
+      "image": "images/MARIOK_8.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-race-car-on-a-track-3153-large.mp4",
+      "characters": [
+        {"name": "Mario", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/21/ai-generated-7913712_640.jpg"},
+        {"name": "Luigi", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/24/ai-generated-7913717_640.jpg"},
+        {"name": "Peach", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/23/ai-generated-7913716_640.jpg"},
+        {"name": "Bowser", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/23/ai-generated-7913715_640.jpg"},
+        {"name": "Yoshi", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/24/ai-generated-7913718_640.jpg"}
+      ]
+    },
+    {
+      "title": "ANIMAL CROSSING: NEW HORIZONS",
+      "developer": "Nintendo EPD",
+      "year": 2020,
+      "rating": "E",
+      "amazonLink": "https://www.amazon.com/Animal-Crossing-New-Horizons-Nintendo-Switch/dp/B07SL6YXYL",
+      "image": "images/AC_H.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-tropical-island-with-palm-trees-3169-large.mp4",
+      "characters": [
+        {"name": "Player", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/25/ai-generated-7913719_640.jpg"},
+        {"name": "Tom Nook", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/25/ai-generated-7913720_640.jpg"},
+        {"name": "Isabelle", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/26/ai-generated-7913721_640.jpg"},
+        {"name": "K.K. Slider", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/26/ai-generated-7913722_640.jpg"},
+        {"name": "Blathers", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/27/ai-generated-7913723_640.jpg"}
+      ]
+    },
+    {
+      "title": "SUPER SMASH BROS ULTIMATE",
+      "developer": "Bandai Namco Studios",
+      "year": 2018,
+      "rating": "E10+",
+      "amazonLink": "https://www.amazon.com/Super-Smash-Bros-Ultimate-Nintendo-Switch/dp/B01N5OKGLH",
+      "image": "images/SSB_U.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-fighters-in-a-ring-3157-large.mp4",
+      "characters": [
+        {"name": "Mario", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/21/ai-generated-7913712_640.jpg"},
+        {"name": "Link", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/19/ai-generated-7913707_640.jpg"},
+        {"name": "Pikachu", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/27/ai-generated-7913724_640.jpg"},
+        {"name": "Kirby", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/28/ai-generated-7913725_640.jpg"},
+        {"name": "Donkey Kong", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/28/ai-generated-7913726_640.jpg"}
+      ]
+    },
+    {
+      "title": "POKÉMON SCARLET",
+      "developer": "Game Freak",
+      "year": 2022,
+      "rating": "E",
+      "amazonLink": null,
+      "image": "images/PS.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-sunny-meadow-with-trees-3165-large.mp4",
+      "characters": [
+        {"name": "Player", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/29/ai-generated-7913727_640.jpg"},
+        {"name": "Nemona", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/29/ai-generated-7913728_640.jpg"},
+        {"name": "Arven", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/30/ai-generated-7913729_640.jpg"},
+        {"name": "Professor Sada", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/30/ai-generated-7913730_640.jpg"},
+        {"name": "Koraidon", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/31/ai-generated-7913731_640.jpg"}
+      ]
+    },
+    {
+      "title": "METROID DREAD",
+      "developer": "MercurySteam",
+      "year": 2021,
+      "rating": "T",
+      "amazonLink": "https://www.amazon.com/Metroid-Dread-Nintendo-Switch/dp/B097B1J3F7",
+      "image": "images/MD.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-sci-fi-space-station-3159-large.mp4",
+      "characters": [
+        {"name": "Samus Aran", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/31/ai-generated-7913732_640.jpg"},
+        {"name": "Raven Beak", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/32/ai-generated-7913733_640.jpg"},
+        {"name": "Adam Malkovich", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/32/ai-generated-7913734_640.jpg"},
+        {"name": "E.M.M.I.", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/33/ai-generated-7913735_640.jpg"},
+        {"name": "Quiet Robe", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/33/ai-generated-7913736_640.jpg"}
+      ]
+    },
+    {
+      "title": "LUIGI'S MANSION 3",
+      "developer": "Next Level Games",
+      "year": 2019,
+      "rating": "E",
+      "amazonLink": "https://www.amazon.com/Luigis-Mansion-3-Nintendo-Switch/dp/B07SJQYQ5P",
+      "image": "images/LM_3.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-spooky-haunted-house-31746-large.mp4",
+      "characters": [
+        {"name": "Luigi", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/24/ai-generated-7913717_640.jpg"},
+        {"name": "Gooigi", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/34/ai-generated-7913737_640.jpg"},
+        {"name": "Mario", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/21/ai-generated-7913712_640.jpg"},
+        {"name": "Professor E. Gadd", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/34/ai-generated-7913738_640.jpg"},
+        {"name": "King Boo", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/35/ai-generated-7913739_640.jpg"}
+      ]
+    }
+  ]
+}

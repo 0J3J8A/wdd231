@@ -1,0 +1,252 @@
+{
+  "games": [
+    {
+      "title": "CYBERPUNK 2077",
+      "developer": "CD Projekt Red",
+      "year": 2020,
+      "rating": "M",
+      "amazonLink": "https://www.amazon.com/cyberpunk-2077-collectors-xbox-one/dp/B07SG16ZPQ",
+      "image": "images/CP_2077.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-futuristic-city-at-night-31535-large.mp4",
+      "characters": [
+        {
+          "name": "V",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/02/ai-generated-7913675_640.jpg"
+        },
+        {
+          "name": "Johnny Silverhand",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/03/ai-generated-7913676_640.jpg"
+        },
+        {
+          "name": "Judy Alvarez",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/03/ai-generated-7913677_640.jpg"
+        },
+        {
+          "name": "Panam Palmer",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/04/ai-generated-7913678_640.jpg"
+        },
+        {
+          "name": "Rogue Amendiares",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/04/ai-generated-7913679_640.jpg"
+        }
+      ]
+    },
+    {
+      "title": "GEARS OF WAR 5",
+      "developer": "The Coalition",
+      "year": 2019,
+      "rating": "M",
+      "amazonLink": "https://www.amazon.com/Gears-5-Xbox-One/dp/B07DJY4FRP",
+      "image": "images/GOW_5.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-soldier-in-a-war-zone-3154-large.mp4",
+      "characters": [
+        {
+          "name": "Kait Diaz",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/05/ai-generated-7913680_640.jpg"
+        },
+        {
+          "name": "JD Fenix",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/05/ai-generated-7913681_640.jpg"
+        },
+        {
+          "name": "Marcus Fenix",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/06/ai-generated-7913682_640.jpg"
+        },
+        {
+          "name": "Delmont Walker",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/06/ai-generated-7913683_640.jpg"
+        },
+        {
+          "name": "Fahz Chutani",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/07/ai-generated-7913684_640.jpg"
+        }
+      ]
+    },
+    {
+      "title": "FORZA HORIZON 5",
+      "developer": "Playground Games",
+      "year": 2021,
+      "rating": "E",
+      "amazonLink": null,
+      "image": "images/FH_5.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-sports-car-on-a-race-track-3152-large.mp4",
+      "characters": [
+        {
+          "name": "Player Avatar",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/07/ai-generated-7913685_640.jpg"
+        },
+        {
+          "name": "Anna",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/08/ai-generated-7913686_640.jpg"
+        },
+        {
+          "name": "Ramiro",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/08/ai-generated-7913687_640.jpg"
+        },
+        {
+          "name": "Alex",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/09/ai-generated-7913688_640.jpg"
+        },
+        {
+          "name": "Keira",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/09/ai-generated-7913689_640.jpg"
+        }
+      ]
+    },
+    {
+      "title": "HALO INFINITE",
+      "developer": "343 Industries",
+      "year": 2021,
+      "rating": "M",
+      "amazonLink": null,
+      "image": "images/HI.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-sci-fi-space-station-3159-large.mp4",
+      "characters": [
+        {
+          "name": "Master Chief",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/10/ai-generated-7913690_640.jpg"
+        },
+        {
+          "name": "The Weapon",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/10/ai-generated-7913691_640.jpg"
+        },
+        {
+          "name": "Atriox",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/11/ai-generated-7913692_640.jpg"
+        },
+        {
+          "name": "Escharum",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/11/ai-generated-7913693_640.jpg"
+        },
+        {
+          "name": "Cortana",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/12/ai-generated-7913694_640.jpg"
+        }
+      ]
+    },
+    {
+      "title": "RED DEAD REDEMPTION 2",
+      "developer": "Rockstar Games",
+      "year": 2018,
+      "rating": "M",
+      "amazonLink": null,
+      "image": "images/RDR_2.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-cowboy-riding-horse-in-sunset-31744-large.mp4",
+      "characters": [
+        {
+          "name": "Arthur Morgan",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/12/ai-generated-7913695_640.jpg"
+        },
+        {
+          "name": "John Marston",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/13/ai-generated-7913696_640.jpg"
+        },
+        {
+          "name": "Dutch van der Linde",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/13/ai-generated-7913697_640.jpg"
+        },
+        {
+          "name": "Sadie Adler",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/14/ai-generated-7913698_640.jpg"
+        },
+        {
+          "name": "Micah Bell",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/14/ai-generated-7913699_640.jpg"
+        }
+      ]
+    },
+    {
+      "title": "CALL OF DUTY: MODERN WARFARE II",
+      "developer": "Infinity Ward",
+      "year": 2022,
+      "rating": "M",
+      "amazonLink": "https://www.amazon.com/Call-Duty-Warfare-Cross-Gen-Pre-purchase/dp/B0BGMFJL53",
+      "image": "images/COD_MF2.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-soldier-in-a-war-zone-3154-large.mp4",
+      "characters": [
+        {
+          "name": "Captain Price",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/10/49/ai-generated-7913650_640.jpg"
+        },
+        {
+          "name": "Soap MacTavish",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/10/50/ai-generated-7913651_640.jpg"
+        },
+        {
+          "name": "Ghost",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/10/50/ai-generated-7913652_640.jpg"
+        },
+        {
+          "name": "Farah Karim",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/10/51/ai-generated-7913653_640.jpg"
+        },
+        {
+          "name": "Alejandro Vargas",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/15/ai-generated-7913700_640.jpg"
+        }
+      ]
+    },
+    {
+      "title": "ASSASSIN'S CREED VALHALLA",
+      "developer": "Ubisoft Montreal",
+      "year": 2020,
+      "rating": "M",
+      "amazonLink": "https://www.amazon.com/Assassins-Creed-Valhalla-Xbox-One/dp/B08CNP8DG6",
+      "image": "images/AC_V.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-viking-ship-at-sunset-31743-large.mp4",
+      "characters": [
+        {
+          "name": "Eivor",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/16/ai-generated-7913701_640.jpg"
+        },
+        {
+          "name": "Sigurd",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/16/ai-generated-7913702_640.jpg"
+        },
+        {
+          "name": "Basim",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/17/ai-generated-7913703_640.jpg"
+        },
+        {
+          "name": "Randvi",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/17/ai-generated-7913704_640.jpg"
+        },
+        {
+          "name": "Alfred the Great",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/18/ai-generated-7913705_640.jpg"
+        }
+      ]
+    },
+    {
+      "title": "GEARS OF WAR 4",
+      "developer": "The Coalition",
+      "year": 2016,
+      "rating": "M",
+      "amazonLink": "https://www.amazon.com/Gears-War-4-Xbox-One/dp/B00ZPTMX60",
+      "image": "images/GOW_4.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-soldier-in-a-war-zone-3154-large.mp4",
+      "characters": [
+        {
+          "name": "JD Fenix",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/05/ai-generated-7913681_640.jpg"
+        },
+        {
+          "name": "Kait Diaz",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/05/ai-generated-7913680_640.jpg"
+        },
+        {
+          "name": "Delmont Walker",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/06/ai-generated-7913683_640.jpg"
+        },
+        {
+          "name": "Marcus Fenix",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/06/ai-generated-7913682_640.jpg"
+        },
+        {
+          "name": "Oscar Diaz",
+          "image": "https://cdn.pixabay.com/photo/2023/04/10/11/18/ai-generated-7913706_640.jpg"
+        }
+      ]
+    }
+  ]
+}
