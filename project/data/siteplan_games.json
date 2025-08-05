@@ -1,0 +1,112 @@
+{
+  "games": [
+    {
+      "title": "SUPER MARIO ODYSSEY",
+      "developer": "Nintendo EPD",
+      "year": 2017,
+      "rating": "E",
+      "amazonLink": "https://www.amazon.com/-/es/Super-Mario-Odyssey-US-Version-Interruptor/dp/B01MY7GHKJ/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1XYUHGNIV5NJE&dib=eyJ2IjoiMSJ9.t-SzYswJ1eg2CFfoPlb88hioLto7NUW6EukcgSdKrAnk1gg_BN1oFwLxc8HxE_q1rYact9X9I5wmdZSpZzJCzd4B3K0qT-SG5GYLqXWdtOa-K9pJM3QrJyGg60FQaBK1L3nKGytlAs-zGkGkWQiSy2Ybh8oin3slppC7sullUri-JR8pFWkr-fhdsqj3ZOQZZytrk93cZBnRFR6yhVmJhQVoldWG8Q_eeO3SaIaa7gk.0FDl0eKrJIge9qDsE-uB1M12z5odD2ykOSf6N2Jhj_w&dib_tag=se&keywords=SUPER+MARIO+ODYSSEY&qid=1754426424&sprefix=super+mario+odyssey%2Caps%2C185&sr=8-1",
+      "image": "images/MARIO_OD.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-sunny-city-street-3155-large.mp4"
+    },
+    {
+      "title": "MARVEL'S SPIDER-MAN 2",
+      "developer": "Insomniac Games",
+      "year": 2023,
+      "rating": "T",
+      "amazonLink": "https://www.amazon.com/-/es/MARVELS-SPIDER-MAN-2-Standard-PlayStation-5/dp/B0C7WQRCPB",
+      "image": "images/SP_2_P.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-city-traffic-at-night-3580-large.mp4"
+    },
+    {
+      "title": "FORZA HORIZON 4",
+      "developer": "Playground Games",
+      "year": 2018,
+      "rating": "E",
+      "amazonLink": "https://www.amazon.com/-/es/Forza-Horizon-4-Standard-Xbox-One/dp/B07DJZHQPX/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1UCWR3BCCUKS2&dib=eyJ2IjoiMSJ9.naS2B26M6XKSk9VukD1yEXwiDXKbw2ddu3WEqrCoh1-sN1GmnbXcGOK-TIW7lb1g0owG35FFzws8ju-8FnlWFThFvVzDkCRsof0Wlp7WNrl6IeGpe1fZc8DBS1MyEYnbu73svuXhZAApQimi8J-JwoQljeNiP9AquBDE8JRcv0pmhPGjsCM_A2FK96BvH-5LiUz6e2T9XEyHPwzifclih7DAxzLpfM_kckdDR3us29k.B2vZwtnjmjWag4TiryH4LV7O2VW21rbil5539iak1xU&dib_tag=se&keywords=forza+horizon+4&qid=1754433900&sprefix=forza+horizon+4%2Caps%2C150&sr=8-1",
+      "image": "images/FORZA_X.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-sports-car-racing-through-the-mountains-31540-large.mp4"
+    },
+    {
+      "title": "MARIO KART 8 DELUXE",
+      "developer": "Nintendo EPD",
+      "year": 2017,
+      "rating": "E",
+      "amazonLink": "https://www.amazon.com/Nintendo-Mario-Kart-Deluxe-Multiplayer/dp/B07C4ZNYHP",
+      "image": "images/MARIOK_8.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-race-car-on-a-track-3153-large.mp4"
+    },
+    {
+      "title": "HORIZON FORBIDDEN WEST",
+      "developer": "Guerrilla Games",
+      "year": 2022,
+      "rating": "T",
+      "amazonLink": "https://www.amazon.com/PlayStation-9720690-Horizon-Forbidden-West/dp/B09FBCRKC9",
+      "image": "images/HORIZON_FW.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-nature-forest-with-a-river-3164-large.mp4"
+    },
+    {
+      "title": "DRAGON BALL Z KAKAROT",
+      "developer": "CyberConnect2",
+      "year": 2020,
+      "rating": "T",
+      "amazonLink": "https://www.amazon.com/-/es/DRAGON-BALL-Z-Kakarot-PlayStation-5/dp/B0BFJNWM3R/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2KCG154PPEQO5&dib=eyJ2IjoiMSJ9.PezYx-muF52Ws2z1pjWbiyL5z5AZ9Ei5GefE0muQYMykFwCiOvAl39pvVSYn4NcQCVkFN5BnCi1gAOKq_3w3MBwXtCNSq_P3fyQS-1bLF3MF2oUQYFUhdNxM93UAdJcJYZg6rko9P27wxLD56cFkY0CJH6JNJPQ5EZqxkpAb2JTZlHnajHJdtBVdYHzZMQIi3Z6MHLm90ssNpNq3zfdQvChFGWnsXMudJn2_ftv2yMs.b1HlHUbu6BgYsno_zEQNIQe9tWBl_IgL2tJ9KWDstXs&dib_tag=se&keywords=dragon+ball+z+kakarot&qid=1754433939&sprefix=draqgon+ball+z+kakarot%2Caps%2C130&sr=8-2",
+      "image": "images/DBZ_K.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-energy-ball-floating-in-space-31539-large.mp4"
+    },
+    {
+      "title": "CUPHEAD",
+      "developer": "Studio MDHR",
+      "year": 2017,
+      "rating": "E",
+      "amazonLink": "https://www.amazon.com/-/es/Cuphead-PlayStation-4/dp/B0BHXJHX4Z/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1FF6Z9QPDCBG1&dib=eyJ2IjoiMSJ9.8rr0tKL8e4ITrD7NlJ-bOJf1671h49gVDURacn4_CG60068nZBrrSBrNlvAezTokHfaRybUMEzTatc4Fu0xizjgeLWbxsnn_tVOU0GlKSHfc1V69HGHnxjXg2qyOsUan9U-q-kxy5qDVw2zfLnAcOfvwZhvNGjtF8J2NhW__oAmACK7l2t0-bibMdsPcaPx3P-4a7bN1RpWSwBu3tDqzZNoK2it5zEhlToZ2ZApg9-CmZ8wJJQwxNhqvrl9DzLncqOaVq1SFZlzTAuY12lm24uDQrHNrUitr_n3eQ6ld2-A.RVVmzTWSiYIWkrM0gLT6nlXM8SMLNekMkpt6g3REl-0&dib_tag=se&keywords=cuphead&qid=1754433958&sprefix=cuphea%2Caps%2C145&sr=8-2",
+      "image": "images/CH_1.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-vintage-cartoon-style-animation-31542-large.mp4"
+    },
+    {
+      "title": "LITTLE NIGHTMARES",
+      "developer": "Tarsier Studios",
+      "year": 2017,
+      "rating": "T",
+      "amazonLink": "https://www.amazon.com/-/es/Little-Nightmares-Complete-PS4-PlayStation-4/dp/B07P67PP2L/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3N9ZDZNGOZ78I&dib=eyJ2IjoiMSJ9.X-DuYSD0w9xXKrkBP2lt6FeMdQKoFPL2yfv-X91cBF0atIe_QbytmDtvA0FoEf9o58LHnuDnxHfTEHR4zXIv4sRvldXYAuKpT6Fw5Fj5Yb_Xn4j2KXH1onsBMgYXA46_3R_NaiHmxYAH6LsX-otzxx23t0_I6LFkMO8Hea1diCwjBQFh7rP5ZyI6muuaQ_P_n95U-HktoqB205wCj3qEJJLiM3nbPrD8k2jigF3qexg.ek8d9IL6Y9QutzJAz0tXdX8yOI6hlqvh-E75HzKqd_o&dib_tag=se&keywords=LITTLE+NIGHTMARES&qid=1754433971&sprefix=little+nightmares%2Caps%2C145&sr=8-3",
+      "image": "images/LN_1.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-dark-horror-atmosphere-31543-large.mp4"
+    },
+    {
+      "title": "THE LAST OF US: II",
+      "developer": "Naughty Dog",
+      "year": 2020,
+      "rating": "M",
+      "amazonLink": "https://www.amazon.com/Last-Us-Part-II-PlayStation-4/dp/B07DJRFSDF",
+      "image": "images/TLOU_2.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-aerial-view-of-city-traffic-at-night-3580-large.mp4"
+    },
+    {
+      "title": "NEED FOR SPEED HEAT",
+      "developer": "Ghost Games",
+      "year": 2019,
+      "rating": "E",
+      "amazonLink": "https://www.amazon.com/-/es/Need-Speed-Heat-PlayStation-4/dp/B07W95HYPR/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MPMIRXUQ6C4A&dib=eyJ2IjoiMSJ9.U70uzMvLS3o740TnNIFo9rJ9fXNBWodkSbJo8PfgtzzM8jvAToL-hmKyqRb70pXDfC2-mXMmffueMTKUF10VrpagWW77_2u9ikShxN7TniqPrKG7D3jhZZMdpm-JR1gyYv0c-MVfb5SQXl0zW7L36FssIB0g_lzr5_Ub6-Xg9cR-taWZtadKnIUw9VqEj88G-iKI5SCPPYLFdiO_FvmyD16PNmpHIEnK4VVS61GJTGo.5M0CKfHV5VhOUFmzNEDYx0khV8bWYvZam0ItQyPAtGM&dib_tag=se&keywords=NEED+FOR+SPEED+HEAT&qid=1754434014&sprefix=need+for+speed+hea%2Caps%2C144&sr=8-1",
+      "image": "images/NFS_H.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-sports-car-racing-at-night-31545-large.mp4"
+    },
+    {
+      "title": "GTA V",
+      "developer": "Rockstar North",
+      "year": 2013,
+      "rating": "M",
+      "amazonLink": "https://www.amazon.com/-/es/Grand-Theft-Auto-Premium-Playstation-4/dp/B07CSWQR3V/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2NYKIMSILDJQB&dib=eyJ2IjoiMSJ9.hArdidFOTX75sfMIeyClkEFuQ2MEQyictKXeOV0TEFPGjHj071QN20LucGBJIEps.cLlq6eo_hNhLV7pYku2dv95C4_zmekWq84jtILNTVdU&dib_tag=se&keywords=GTAV5&qid=1754434027&sprefix=gtav5%2Caps%2C136&sr=8-1",
+      "image": "images/GTA_5.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-city-traffic-at-night-31546-large.mp4"
+    },
+    {
+      "title": "GOD OF WAR (2018)",
+      "developer": "Santa Monica Studio",
+      "year": 2018,
+      "rating": "M",
+      "amazonLink": "https://www.amazon.com/God-War-PlayStation-4/dp/B01GW8XOY2",
+      "image": "images/GOW_18.jpg",
+      "backgroundVideo": "https://assets.mixkit.co/videos/preview/mixkit-snowy-mountain-peak-under-a-cloudy-sky-3156-large.mp4"
+    }
+  ]
+}
