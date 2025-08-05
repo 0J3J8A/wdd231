@@ -370,6 +370,161 @@ footer {
   display: none;
 }
 
+/* Diálogo de juego - Versión mejorada con centrado completo */
+.dialog-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    z-index: 1000;
+    backdrop-filter: blur(5px);
+}
+
+.game-dialog {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 85%;
+    max-width: 900px;
+    height: 80vh;
+    max-height: 700px;
+    z-index: 1001;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 30px rgba(0, 120, 255, 0.5);
+    border: 2px solid var(--color-playstation);
+}
+
+.video-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.bg-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.8;
+}
+
+.dialog-content {
+    position: relative;
+    z-index: 2;
+    padding: 2rem;
+    color: white;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centrado vertical */
+    align-items: center; /* Centrado horizontal */
+    text-align: center; /* Centrado de texto */
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
+}
+
+.dialog-content h2 {
+    color: var(--color-playstation);
+    margin-top: 0;
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+    border-bottom: 2px solid var(--color-playstation);
+    padding-bottom: 10px;
+    width: 100%;
+}
+
+.game-info {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    width: 80%;
+}
+
+.game-info p {
+    margin: 1.5rem 0;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.buy-button {
+    display: inline-block;
+    background: #ff9900;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.buy-button:hover {
+    background: #e68a00;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(255, 153, 0, 0.4);
+}
+
+.close-dialog {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background: var(--color-playstation-dark);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.3s;
+}
+
+.close-dialog:hover {
+    background: var(--color-playstation);
+    transform: scale(1.05);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .game-dialog {
+        width: 95%;
+        height: 90vh;
+    }
+    
+    .dialog-content {
+        padding: 1.5rem;
+    }
+    
+    .dialog-content h2 {
+        font-size: 1.8rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .game-info {
+        padding: 1.5rem;
+        width: 90%;
+        margin-bottom: 1.5rem;
+    }
+    
+    .game-info p {
+        font-size: 1.2rem;
+        margin: 1rem 0;
+    }
+    
+    .buy-button {
+        padding: 12px 25px;
+        font-size: 1rem;
+    }
+}
+
 /* Media query MOBILES (760px) */
 @media screen and (max-width: 760px) {
   header {
