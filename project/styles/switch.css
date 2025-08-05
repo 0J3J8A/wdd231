@@ -394,7 +394,7 @@ footer {
     z-index: 1001;
     border-radius: 15px;
     overflow: hidden;
-    box-shadow: 0 0 30px rgba(0, 120, 255, 0.5);
+    box-shadow: 0 0 30px var(--color-switch-dark);
     border: 2px solid var(--color-switch);
 }
 
