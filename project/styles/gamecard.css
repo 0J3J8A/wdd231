@@ -94,6 +94,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1.5rem;
+  padding: 0.5rem; /* Añadido padding interno al formulario */
 }
 
 #gameCardForm .form-group {
@@ -110,13 +111,14 @@
   color: var(--color-text);
   font-size: 1.1rem;
   letter-spacing: 0.5px;
+  padding-left: 0.3rem; /* Pequeño espacio para alinear con inputs */
 }
 
 /* ================ FORM INPUTS ================ */
 #gameCardForm input,
 #gameCardForm select,
 #gameCardForm textarea {
-  width: 100%;
+  width: calc(100% - 1.6rem); /* Ajuste para considerar el padding */
   padding: 0.8rem;
   border: 1px solid var(--color-purple);
   border-radius: 6px;
@@ -125,6 +127,7 @@
   font-family: var(--font-body);
   font-size: 1rem;
   transition: all 0.3s ease;
+  margin: 0 0.3rem; /* Margen lateral para no tocar bordes */
 }
 
 #gameCardForm input:focus,
@@ -139,6 +142,7 @@
 #gameCardForm textarea {
   resize: vertical;
   min-height: 100px;
+  width: calc(100% - 1.6rem); /* Ajuste específico para textarea */
 }
 
 /* ================ FORM BUTTON ================ */
@@ -158,10 +162,8 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   transition: all 0.3s ease;
-  margin-top: 1rem;
-  position: relative;
-  overflow: hidden;
-  z-index: 1;
+  margin: 1rem 0.3rem 0; /* Margen superior y laterales */
+  width: calc(100% - 0.6rem); /* Ajuste de ancho */
 }
 
 #gameCardForm button::before {
@@ -339,10 +341,14 @@
 @media (max-width: 768px) {
   #gameCardForm {
     grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 0.5rem; /* Mantener padding interno */
   }
   
   #gameCardForm button {
     grid-column: span 1;
+    margin: 1rem 0.3rem 0;
+    width: calc(100% - 0.6rem);
   }
   
   .gamer-card {
@@ -361,11 +367,34 @@
   .card-display-container h1 {
     font-size: 2rem;
   }
+  
+  /* Ajustes para el contenedor del formulario */
+  .gamecard-form {
+    margin: 2rem 1rem;
+    padding: 1.5rem 1rem; /* Más padding horizontal */
+    width: calc(100% - 2rem);
+    box-sizing: border-box;
+  }
+  
+  /* Ajustes específicos para inputs en tablet */
+  #gameCardForm input,
+  #gameCardForm select,
+  #gameCardForm textarea {
+    width: calc(100% - 1.2rem);
+    margin: 0 0.2rem;
+  }
+  
+  #gameCardForm textarea {
+    width: calc(100% - 1.2rem);
+  }
 }
 
 @media (max-width: 480px) {
+  /* Ajustes más específicos para móviles pequeños */
   .gamecard-form {
-    padding: 1.5rem;
+    margin: 1.5rem 0.8rem;
+    padding: 1.2rem 0.8rem;
+    width: calc(100% - 1.6rem);
   }
   
   .card-content {
@@ -377,5 +406,36 @@
     width: 120px;
     height: 120px;
     margin-bottom: 1rem;
+  }
+  
+  /* Ajustes de tamaño de fuente */
+  .gamecard-form h2 {
+    font-size: 1.5rem;
+    padding-bottom: 8px;
+  }
+  
+  #gameCardForm label {
+    font-size: 1rem;
+    padding-left: 0.2rem;
+  }
+  
+  #gameCardForm input,
+  #gameCardForm select,
+  #gameCardForm textarea {
+    font-size: 0.9rem;
+    padding: 0.7rem;
+    width: calc(100% - 1rem);
+    margin: 0 0.1rem;
+  }
+  
+  #gameCardForm textarea {
+    width: calc(100% - 1rem);
+  }
+  
+  #gameCardForm button {
+    font-size: 1rem;
+    padding: 0.8rem;
+    margin: 1rem 0.1rem 0;
+    width: calc(100% - 0.2rem);
   }
 }
