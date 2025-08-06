@@ -272,6 +272,7 @@ footer p {
 
 footer {
   border-top: 2px solid var(--color-purple);
+  text-align: center;
 }
 
 .p_2 {
@@ -399,6 +400,12 @@ footer {
 .close-dialog:hover {
   background: var(--color-purple);
   transform: scale(1.05);
+}
+
+footer a{
+  color: var(--color-purple-dark);
+  text-decoration: none;
+  font-size: 1.2rem;
 }
 
 
