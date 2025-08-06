@@ -9,11 +9,11 @@
       "image": "images/TLZ-TK.jpg",
       "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/294715552/stock-video-sound-waves-in-the-dark?token=",
       "characters": [
-        {"name": "Link", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/19/ai-generated-7913707_640.jpg"},
-        {"name": "Zelda", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/19/ai-generated-7913708_640.jpg"},
-        {"name": "Ganondorf", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/20/ai-generated-7913709_640.jpg"},
-        {"name": "Rauru", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/20/ai-generated-7913710_640.jpg"},
-        {"name": "Sonia", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/21/ai-generated-7913711_640.jpg"}
+        {"name": "Link", "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-breath-of-the-wild-2/3/38/Link2.png"},
+        {"name": "Zelda", "image": "https://i.blogs.es/5269c3/zelda-zelda-tears-of-the-kingdom/1366_2000.jpeg"},
+        {"name": "Ganondorf", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPfnAlL8h_FjPQZxLxz89D9cRacfn8g5x1HA&s"},
+        {"name": "Rauru", "image": "https://static.wikia.nocookie.net/p__/images/2/2f/RauruZonai.png/revision/latest?cb=20230611230428&path-prefix=protagonist"},
+        {"name": "Sonia", "image": "https://www.zeldadungeon.net/wiki/images/d/d0/TotK_Sonia.jpg"}
       ]
     },
     {
@@ -25,11 +25,11 @@
       "image": "images/MARIO_OD.jpg",
       "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/625050712/stock-video-relaxing-rounded-neon-red-colored-lines-background-animation-loop-good?token=",
       "characters": [
-        {"name": "Mario", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/21/ai-generated-7913712_640.jpg"},
-        {"name": "Cappy", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/22/ai-generated-7913713_640.jpg"},
-        {"name": "Pauline", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/22/ai-generated-7913714_640.jpg"},
-        {"name": "Bowser", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/23/ai-generated-7913715_640.jpg"},
-        {"name": "Peach", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/23/ai-generated-7913716_640.jpg"}
+        {"name": "Mario", "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/08/super-mario-odyssey_1.jpg?tf=3840x"},
+        {"name": "Cappy", "image": "https://mario.wiki.gallery/images/thumb/5/54/NM_Cappy_PL.png/175px-NM_Cappy_PL.png"},
+        {"name": "Luigi", "image": "https://i.ytimg.com/vi/V7WRakpT-q8/maxresdefault.jpg"},
+        {"name": "Bowser", "image": "https://supermario.nintendo.com/assets/img/amiibo/header-divider-1.jpg"},
+        {"name": "Peach", "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/10/super-mario-odyssey-peach.jpg?tf=3840x"}
       ]
     },
     {
@@ -41,11 +41,11 @@
       "image": "images/MARIOK_8.jpg",
       "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/489506722/stock-video-abstract-moving-neon-futuristic-digital-short-geometric-lines-glowing-4k-seamless-vj-loop-motion-background?token=",
       "characters": [
-        {"name": "Mario", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/21/ai-generated-7913712_640.jpg"},
-        {"name": "Luigi", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/24/ai-generated-7913717_640.jpg"},
-        {"name": "Peach", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/23/ai-generated-7913716_640.jpg"},
-        {"name": "Bowser", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/23/ai-generated-7913715_640.jpg"},
-        {"name": "Yoshi", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/24/ai-generated-7913718_640.jpg"}
+        {"name": "Mario", "image": "https://sm.ign.com/ign_es/cover/m/mario-kart/mario-kart-8-deluxe_cac6.jpg"},
+        {"name": "Luigi", "image": "https://www.nicepng.com/png/detail/37-377970_luigi-in-mario-kart-8-official-game-art.png"},
+        {"name": "Peach", "image": "https://avatarfiles.alphacoders.com/325/thumb-1920-325837.jpg"},
+        {"name": "Bowser", "image": "https://i.pinimg.com/736x/4e/74/08/4e7408c3372cbd8c2331a364a6b6eac1.jpg"},
+        {"name": "Yoshi", "image": "https://www.theloadout.com/wp-content/uploads/2022/08/mario-kart-8-deluxe-characters-yoshi.jpeg"}
       ]
     },
     {
@@ -57,11 +57,11 @@
       "image": "images/AC_H.jpg",
       "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/625050668/stock-video-relaxing-rounded-neon-pink-colored-lines-background-animation-loop-good?token=",
       "characters": [
-        {"name": "Player", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/25/ai-generated-7913719_640.jpg"},
-        {"name": "Tom Nook", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/25/ai-generated-7913720_640.jpg"},
-        {"name": "Isabelle", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/26/ai-generated-7913721_640.jpg"},
-        {"name": "K.K. Slider", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/26/ai-generated-7913722_640.jpg"},
-        {"name": "Blathers", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/27/ai-generated-7913723_640.jpg"}
+        {"name": "Player", "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/player-with-golden-tools-animal-crossing-new-horizon.jpg"},
+        {"name": "Tom Nook", "image": "https://cdn.mos.cms.futurecdn.net/A49SHvJd5XCM7qBAqfRDYn.jpg"},
+        {"name": "Isabelle", "image": "https://cdn.mos.cms.futurecdn.net/iZikTSRa7VUU6FMKTkHfDf.jpg"},
+        {"name": "K.K. Slider", "image": "https://assets-prd.ignimgs.com/2021/03/11/kkslider-1615500968766.jpg"},
+        {"name": "Blathers", "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/04/animal-crossing-museum-blathers.jpg"}
       ]
     },
     {
@@ -73,11 +73,11 @@
       "image": "images/SSB_U.jpg",
       "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/819618798/stock-video-trendy-abstract-technology-background-glowing-red-blue-neon-light-beams?token=",
       "characters": [
-        {"name": "Mario", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/21/ai-generated-7913712_640.jpg"},
-        {"name": "Link", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/19/ai-generated-7913707_640.jpg"},
-        {"name": "Pikachu", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/27/ai-generated-7913724_640.jpg"},
-        {"name": "Kirby", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/28/ai-generated-7913725_640.jpg"},
-        {"name": "Donkey Kong", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/28/ai-generated-7913726_640.jpg"}
+        {"name": "Mario", "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/super-smash-bros-next/8/86/Mario-character-main.png?width=470&format=jpg&auto=webp&quality=80"},
+        {"name": "Link", "image": "https://i.pinimg.com/564x/37/00/15/37001513af568d19c4b9a7729171227e.jpg"},
+        {"name": "Pikachu", "image": "https://c4.wallpaperflare.com/wallpaper/553/700/905/video-game-super-smash-bros-ultimate-pikachu-wallpaper-preview.jpg"},
+        {"name": "Kirby", "image": "https://i.pinimg.com/736x/ec/31/ea/ec31eadd3ec4260c43d48f5f8358348e.jpg"},
+        {"name": "Donkey Kong", "image": "https://s.yimg.com/ny/api/res/1.2/dEg6hHHIUH5LhCdQGEmaPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/es/levelup_525/79557a0ffcf7ae52381ad4abf647110d"}
       ]
     },
     {
@@ -89,11 +89,11 @@
       "image": "images/PS.jpg",
       "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/809335074/stock-video-futuristic-background-portal-exploding-neon-energy-beams-particles-flares-high?token=",
       "characters": [
-        {"name": "Player", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/29/ai-generated-7913727_640.jpg"},
-        {"name": "Nemona", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/29/ai-generated-7913728_640.jpg"},
-        {"name": "Arven", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/30/ai-generated-7913729_640.jpg"},
-        {"name": "Professor Sada", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/30/ai-generated-7913730_640.jpg"},
-        {"name": "Koraidon", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/31/ai-generated-7913731_640.jpg"}
+        {"name": "Player", "image": "https://pokemonblog.com/wp-content/uploads/2022/02/pokemon_scarlet_and_violet_player_characters.jpeg"},
+        {"name": "Nemona", "image": "https://assetsio.gnwcdn.com/Pokemon-Scarlet-and-Violet-Nemona-Header.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp"},
+        {"name": "Arven", "image": "https://assetsio.gnwcdn.com/pokemon_scarlet_violet_arven_2.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp"},
+        {"name": "Professor Sada", "image": "https://images.pokemontcg.io/sv1/240_hires.png"},
+        {"name": "Koraidon", "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-scarlet-violet/6/66/Koraidon.jpg?width=640"}
       ]
     },
     {
@@ -105,11 +105,11 @@
       "image": "images/MD.jpg",
       "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/625050712/stock-video-relaxing-rounded-neon-red-colored-lines-background-animation-loop-good?token=",
       "characters": [
-        {"name": "Samus Aran", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/31/ai-generated-7913732_640.jpg"},
-        {"name": "Raven Beak", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/32/ai-generated-7913733_640.jpg"},
-        {"name": "Adam Malkovich", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/32/ai-generated-7913734_640.jpg"},
-        {"name": "E.M.M.I.", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/33/ai-generated-7913735_640.jpg"},
-        {"name": "Quiet Robe", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/33/ai-generated-7913736_640.jpg"}
+        {"name": "Samus Aran", "image": "https://www.nintendo.com/eu/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_metroiddread/metroiddreadreports/metroiddreadreports_volume5/CI_NSwitch_MetroidDread_Artwork_Samus_image950w.jpg"},
+        {"name": "Raven Beak", "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/metroid-dread/1/1d/MD_Raven1.jpg"},
+        {"name": "Adam Malkovich", "image": "https://www.giantbomb.com/a/uploads/square_small/3/34651/1411530-captain.jpg"},
+        {"name": "E.M.M.I.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6BaLXZfIfQkfC2CSnJpFseVgM9qtb4uszQ&s"},
+        {"name": "Quiet Robe", "image": "https://i.ytimg.com/vi/9Gz9PBvg3Gs/maxresdefault.jpg"}
       ]
     },
     {
@@ -121,11 +121,11 @@
       "image": "images/LM_3.jpg",
       "backgroundVideo": "https://cdn.create.vista.com/api/media/medium/489506722/stock-video-abstract-moving-neon-futuristic-digital-short-geometric-lines-glowing-4k-seamless-vj-loop-motion-background?token=",
       "characters": [
-        {"name": "Luigi", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/24/ai-generated-7913717_640.jpg"},
-        {"name": "Gooigi", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/34/ai-generated-7913737_640.jpg"},
-        {"name": "Mario", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/21/ai-generated-7913712_640.jpg"},
-        {"name": "Professor E. Gadd", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/34/ai-generated-7913738_640.jpg"},
-        {"name": "King Boo", "image": "https://cdn.pixabay.com/photo/2023/04/10/11/35/ai-generated-7913739_640.jpg"}
+        {"name": "Luigi", "image": "https://phantom-elmundo.uecdn.es/f359a8746bcb59411f17ae41e27ed19c/resize/828/f/jpg/assets/multimedia/imagenes/2019/11/04/15728813914030.jpg"},
+        {"name": "Gooigi", "image": "https://static.wikia.nocookie.net/mansionluigi/images/6/62/LM3GooigiArt.jpg/revision/latest?cb=20200914212721"},
+        {"name": "Mario", "image": "https://static.wikia.nocookie.net/mansionluigi/images/7/76/Mario_LM3.png/revision/latest?cb=20210516090043"},
+        {"name": "Professor E. Gadd", "image": "https://media.sketchfab.com/models/6aa8699420924f299ee6e17b1808a11d/thumbnails/59f521e808644721987e99c729ca91f1/ce81e52ed0f547d7940eebf69e0da7cd.jpeg"},
+        {"name": "King Boo", "image": "https://media.vandal.net/master/11-2019/201911620241524_1.jpg"}
       ]
     }
   ]
