@@ -16,10 +16,8 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
-    // Obtener parámetros de la URL
     const urlParams = new URLSearchParams(window.location.search);
-
-    // Extraer datos del formulario
+    // GET THE DATA OF THE FORM
     const cardData = {
         firstName: urlParams.get('firstName'),
         lastName: urlParams.get('lastName'),
@@ -33,13 +31,12 @@ document.addEventListener('DOMContentLoaded', function () {
         gamerText: urlParams.get('gamerText')
     };
 
-    // Validar datos
     if (!cardData.firstName) {
         window.location.href = 'siteplan.html';
         return;
     }
 
-    // Mostrar datos en la tarjeta
+    // DISPLAY THE GAME CARD
     document.getElementById('gamerName').textContent = `${cardData.firstName} ${cardData.lastName}`;
     document.getElementById('gamerAge').textContent = cardData.age;
     document.getElementById('gamerCountry').textContent = cardData.country;
@@ -48,20 +45,16 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('gamerCharacter').textContent = cardData.character;
     document.getElementById('gamerText').textContent = cardData.gamerText;
 
-    // Establecer imágenes
     document.querySelector('.card-background').src = cardData.backgroundImage;
     document.querySelector('.character-image').src = cardData.characterImage;
 
-    // Crear e insertar el badge
     createConsoleBadge(cardData.console);
 
-    // Configurar botones
     document.getElementById('downloadCard').addEventListener('click', downloadCard);
     document.getElementById('createNewCard').addEventListener('click', () => {
         window.location.href = 'siteplan.html';
     });
 
-    // Funciones auxiliares
     function getConsoleName(consoleType) {
         const consoles = {
             playstation: 'PlayStation',

@@ -17,13 +17,12 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 document.addEventListener('DOMContentLoaded', function () {
-  // Cargar datos de juegos
   fetch('data/switch_games.json')
     .then(response => response.json())
     .then(data => {
       const cards = document.querySelectorAll('.card');
 
-      // Asignar evento a cada card
+      
       cards.forEach((card, index) => {
         const game = data.games[index];
         if (game) {
@@ -34,18 +33,18 @@ document.addEventListener('DOMContentLoaded', function () {
       });
     });
 
-  // Función para mostrar diálogo
+  //display Dialog
   function showGameDialog(game) {
-    // Crear overlay
+  
     const overlay = document.createElement('div');
     overlay.className = 'dialog-overlay';
     document.body.appendChild(overlay);
 
-    // Crear diálogo
+
     const dialog = document.createElement('div');
     dialog.className = 'game-dialog';
 
-    // Video de fondo
+    //background video
     const videoContainer = document.createElement('div');
     videoContainer.className = 'video-container';
 
@@ -59,7 +58,6 @@ document.addEventListener('DOMContentLoaded', function () {
     videoContainer.appendChild(video);
     dialog.appendChild(videoContainer);
 
-    // Contenido del diálogo
     const content = document.createElement('div');
     content.className = 'dialog-content';
 
@@ -77,23 +75,21 @@ document.addEventListener('DOMContentLoaded', function () {
     dialog.appendChild(content);
     document.body.appendChild(dialog);
 
-    // Eventos para cerrar
     const closeBtn = dialog.querySelector('.close-dialog');
     closeBtn.addEventListener('click', closeDialog);
 
     overlay.addEventListener('click', closeDialog);
 
     function closeDialog() {
-      // Detener el video antes de eliminar
       video.pause();
       video.removeAttribute('src');
 
-      // Eliminar elementos
+      
       document.body.removeChild(dialog);
       document.body.removeChild(overlay);
     }
 
-    // Cerrar con ESC
+    // USE ESC
     document.addEventListener('keydown', function escClose(e) {
       if (e.key === 'Escape') {
         closeDialog();

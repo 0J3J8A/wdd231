@@ -94,7 +94,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1.5rem;
-  padding: 0.5rem; /* Añadido padding interno al formulario */
+  padding: 0.5rem; 
 }
 
 #gameCardForm .form-group {
@@ -111,14 +111,14 @@
   color: var(--color-text);
   font-size: 1.1rem;
   letter-spacing: 0.5px;
-  padding-left: 0.3rem; /* Pequeño espacio para alinear con inputs */
+  padding-left: 0.3rem; 
 }
 
 /* ================ FORM INPUTS ================ */
 #gameCardForm input,
 #gameCardForm select,
 #gameCardForm textarea {
-  width: calc(100% - 1.6rem); /* Ajuste para considerar el padding */
+  width: calc(100% - 1.6rem); 
   padding: 0.8rem;
   border: 1px solid var(--color-purple);
   border-radius: 6px;
@@ -127,7 +127,7 @@
   font-family: var(--font-body);
   font-size: 1rem;
   transition: all 0.3s ease;
-  margin: 0 0.3rem; /* Margen lateral para no tocar bordes */
+  margin: 0 0.3rem; 
 }
 
 #gameCardForm input:focus,
@@ -142,7 +142,7 @@
 #gameCardForm textarea {
   resize: vertical;
   min-height: 100px;
-  width: calc(100% - 1.6rem); /* Ajuste específico para textarea */
+  width: calc(100% - 1.6rem); 
 }
 
 /* ================ FORM BUTTON ================ */
@@ -162,8 +162,8 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   transition: all 0.3s ease;
-  margin: 1rem 0.3rem 0; /* Margen superior y laterales */
-  width: calc(100% - 0.6rem); /* Ajuste de ancho */
+  margin: 1rem 0.3rem 0; 
+  width: calc(100% - 0.6rem); 
 }
 
 #gameCardForm button::before {

@@ -79,15 +79,15 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // -------------------- GAME DIALOG FUNCTION --------------------
   function showGameDialog(game) {
-    // Crear overlay
+    
     const overlay = document.createElement('div');
     overlay.className = 'dialog-overlay';
 
-    // Crear diálogo
+
     const dialog = document.createElement('div');
     dialog.className = 'game-dialog';
 
-    // Contenedor de video
+    //background video|
     const videoContainer = document.createElement('div');
     videoContainer.className = 'video-container';
 
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function () {
     videoContainer.appendChild(video);
     dialog.appendChild(videoContainer);
 
-    // Contenido del diálogo
+    
     const content = document.createElement('div');
     content.className = 'dialog-content';
     content.innerHTML = `
@@ -113,27 +113,26 @@ document.addEventListener('DOMContentLoaded', function () {
         <a href="${game.amazonLink}" target="_blank" class="buy-button">Buy on Amazon</a>
       </div>
     `;
-
-    // Botón de cerrar (fuera del innerHTML para evitar conflicto)
+ 
     const closeBtn = document.createElement('button');
     closeBtn.className = 'close-dialog';
     closeBtn.innerText = '✕ Close';
     closeBtn.addEventListener('click', closeDialog);
 
-    // Ensamblar todo
+
     dialog.appendChild(content);
     dialog.appendChild(closeBtn);
     overlay.appendChild(dialog);
     document.body.appendChild(overlay);
 
-    // Cerrar al hacer clic en overlay
+
     overlay.addEventListener('click', function (e) {
       if (e.target === overlay) {
         closeDialog();
       }
     });
 
-    // Cerrar con tecla ESC
+    // USE ESC
     function escClose(e) {
       if (e.key === 'Escape') {
         closeDialog();
@@ -142,7 +141,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     document.addEventListener('keydown', escClose);
 
-    // Función cerrar
     function closeDialog() {
       video.pause();
       video.removeAttribute('src');
