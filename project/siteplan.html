@@ -9,7 +9,9 @@
   <meta name="description"
     content="Technical information about Nintendo Switch, PlayStation, and Xbox. Explore game releases, platform features, and console comparisons. Your source for multi-console gaming info.">
   <link rel="stylesheet" href="styles/siteplan.css">
+  <link rel="stylesheet" href="styles/gamecard.css">
   <script src="scripts/siteplan.js" defer></script>
+  <script src="scripts/gamecard.js" defer></script>
 
   <!--SITE NAME
     GAMING HUB | Switch | PlayStation | Xbox
@@ -158,7 +160,7 @@
       </div>
     </div>
   </main>
-  <!-- FORM -->
+  <!-- FORM 1-->
   <section class="newsletter-form">
     <h2>Stay Updated</h2>
     <form id="gamingNewsletter">
@@ -178,6 +180,57 @@
     </form>
     <div id="formMessage"></div>
   </section>
+  <!-- FORM 2-->
+  <!-- Game Card Form -->
+<section class="gamecard-form">
+  <h2>Create Your Gaming ID Card</h2>
+  <form id="gameCardForm" action="gamecard.html" method="get">
+    <div class="form-group">
+      <label for="firstName">First Name:</label>
+      <input type="text" id="firstName" name="firstName" required>
+    </div>
+    <div class="form-group">
+      <label for="lastName">Last Name:</label>
+      <input type="text" id="lastName" name="lastName" required>
+    </div>
+    <div class="form-group">
+      <label for="age">Age:</label>
+      <input type="number" id="age" name="age" min="1" max="120" required>
+    </div>
+    <div class="form-group">
+      <label for="country">Country:</label>
+      <input type="text" id="country" name="country" required>
+    </div>
+    <div class="form-group">
+      <label for="console">Choose Console:</label>
+      <select id="console" name="console" required>
+        <option value="">-- Select Console --</option>
+        <option value="playstation">PlayStation</option>
+        <option value="xbox">Xbox</option>
+        <option value="switch">Nintendo Switch</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="game">Choose Game:</label>
+      <select id="game" name="game" disabled required>
+        <option value="">-- Select a Console First --</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="character">Choose Character:</label>
+      <select id="character" name="character" disabled required>
+        <option value="">-- Select a Game First --</option>
+      </select>
+      <input type="hidden" id="characterImage" name="characterImage">
+      <input type="hidden" id="backgroundImage" name="backgroundImage">
+    </div>
+    <div class="form-group">
+      <label for="gamerText">Gamer Text:</label>
+      <textarea id="gamerText" name="gamerText" rows="3" required></textarea>
+    </div>
+    <button type="submit">Create Game Card</button>
+  </form>
+</section>
 
   <footer>
     <p>©<span id="currentyear"></span>- Juan Jose Aguirre Marin - Colombia</p>
